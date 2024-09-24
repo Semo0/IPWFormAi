@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ml_app:
+    build: .
+    ports:
+      - "8888:8888"  # Map the container's port to the host
+    volumes:
+      - ./app:/app/app  # Mount the app directory
+    environment:
+      - JUPYTER_TOKEN=ipwvia16  # Set a secure token for Jupyter (optional)
