@@ -1,0 +1,8 @@
+# Ignore .Trash-0 directory
+app/.Trash-0/
+
+# Ignore Jupyter Notebook checkpoint
+app/.ipynb_checkpoints/IPWFormAi-checkpoint.ipynb
+
+# Ignore data directory
+app/data/
