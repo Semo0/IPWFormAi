@@ -2,7 +2,7 @@
 app/.Trash-0/
 
 # Ignore Jupyter Notebook checkpoint
-app/.ipynb_checkpoints/IPWFormAi-checkpoint.ipynb
+app/.ipynb_checkpoints/
 
 # Ignore data directory
 app/data/
