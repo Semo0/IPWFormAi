@@ -1,0 +1,84 @@
+[
+    {
+        "formName": "Football Sign Up",
+        "expectedInputs": [
+            {
+                "label": "Full Name",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Age",
+                "type": "number",
+                "required": true
+            },
+            {
+                "label": "Preferred Position",
+                "type": "dropdown",
+                "options": ["Goalkeeper", "Defender", "Midfielder", "Forward"],
+                "required": true
+            },
+            {
+                "label": "Contact Email",
+                "type": "email",
+                "required": true
+            }
+        ]
+    },
+    {
+        "formName": "Job Application",
+        "expectedInputs": [
+            {
+                "label": "Full Name",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Email Address",
+                "type": "email",
+                "required": true
+            },
+            {
+                "label": "Phone Number",
+                "type": "text",
+                "required": false
+            },
+            {
+                "label": "Position Applied For",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Upload Resume",
+                "type": "file",
+                "required": true
+            }
+        ]
+    },
+    {
+        "formName": "Event Registration",
+        "expectedInputs": [
+            {
+                "label": "Participant Name",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Event",
+                "type": "dropdown",
+                "options": ["Workshop", "Seminar", "Networking"],
+                "required": true
+            },
+            {
+                "label": "Number of Guests",
+                "type": "number",
+                "required": false
+            },
+            {
+                "label": "Dietary Restrictions",
+                "type": "textarea",
+                "required": false
+            }
+        ]
+    }
+]
