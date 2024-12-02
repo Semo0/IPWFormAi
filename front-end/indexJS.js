@@ -28,7 +28,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 document.getElementById('result').innerText = 
                     `Error: ${result.error}`;
             }
-            window.location.href = `result.html?prediction=${encodeURIComponent(data.prediction)}`;
+            sessionStorage.setItem('prediction', data.prediction);
+            sessionStorage.setItem('title', inputValue);
+            window.location.href = `result.html`;
         })
         .catch(error => console.error('Error:', error));
     });

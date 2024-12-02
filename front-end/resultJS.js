@@ -1,11 +1,24 @@
 // Extract the value from the URL query parameter
-const urlParams = new URLSearchParams(window.location.search);
-const prediction = urlParams.get('prediction');
+//const urlParams = new URLSearchParams(window.location.search);
+//const prediction = urlParams.get('prediction');
+const prediction = sessionStorage.getItem('prediction');
+const title = sessionStorage.getItem('title');
+//const formTitle = urlParams.get('title');
+
+const options = [
+    { value: 'text', text: 'Text' },
+    { value: 'dropdown', text: 'Dropdown' },
+    { value: 'numerical', text: 'Numerical' }
+];
 
 // Display the submitted value
 if (prediction) {
+    //decodedFormTitle = decodeURIComponent(formTitle);
+    titleHolder = document.getElementById("formTitle").innerText = title;
+    //titleHolder.value = title;
 
-    results = decodeURIComponent(prediction);
+    //results = decodeURIComponent(prediction);
+    results = prediction;
     generatedForm = results.split(",");
     form = document.getElementById("dynamicForm");
     generatedForm.forEach((value, index) => {
@@ -18,11 +31,14 @@ if (prediction) {
         label.setAttribute("for", inputId);
         label.textContent = `${value.trim()}: `; 
 
-        input = document.createElement("input");
-        input.type = "text";
+        input = document.createElement("select");
         input.id = inputId;
-        input.placeholder = "Type"
-        input.value = "";
+        options.forEach(option => {
+            newOption = document.createElement('option');
+            newOption.value = option.value;
+            newOption.textContent = option.text;
+            input.appendChild(newOption);
+        });
 
         lineBreak = document.createElement("br");
 
@@ -39,7 +55,6 @@ if (prediction) {
     button.textContent = "Create Form"; 
     form.appendChild(button);
 
-    //document.getElementById("displayText").innerText = results;
 } else {
     document.getElementById("displayText").innerText = "No value submitted!";
 }
