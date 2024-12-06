@@ -1,0 +1,46 @@
+/* Custom styles for the template */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h1 {
+    color: black;
+    padding: 2%;
+}
+
+p {
+    color: #6c757d;
+}
+
+.greenButton { 
+    background-color: green;
+    color: white;
+    border-radius:5%;
+    border: none;
+    width: 100%;
+    margin-top: 5%;
+}
+
+#predictForm input { 
+    color: black;
+    border-radius:5%;
+    border: none;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.bg-grey {
+    background-color: #e7e6e6;
+}
+
+.form-row label {
+    width: 40%; 
+    text-align: right;
+    margin-right: 2%; /* Add some spacing between label and input */
+}
+
+.form-row input {
+    width: 55%; 
+    margin-bottom: 2%;
+}
