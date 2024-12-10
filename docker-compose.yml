@@ -1,6 +1,15 @@
 version: '3.8'
 
 services:
+  frontend:
+    build:
+      context: ./front-end  # Path to your front-end directory
+      dockerfile: DockerfileFront
+    ports:
+      - "3000:80"  # Map host port 3000 to Nginx container port 80
+    volumes:
+      - ./front-end:/usr/share/nginx/html  # Mount the entire front-end folder
+
   ml_app:
     build: .
     ports:
