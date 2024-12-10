@@ -1,0 +1,886 @@
+﻿Kunde;customname;customform;name;fieldobjectid;fieldparentid;fieldparenttype;elementtype;fieldtype;blocktype;specialtype;fieldrelation;fieldlabel;language
+ipw;form1712765;1712765;Forecast;1712766;;customform;field;date;;;;Dato;DA
+ipw;form1712765;1712765;Forecast;1712776;;customform;field;decimal;;;;Tilbudssum: Tilbud >= 50% Deadline <90 dage;DA
+ipw;form1712765;1712765;Forecast;1712780;;customform;field;decimal;;;;Sum ordrebeholdning (Tilgode);DA
+ipw;form1712765;1712765;Forecast;1712782;;customform;field;decimal;;;;Sum ordrebeholdning (Est.tilgode);DA
+ipw;form1600633;1600633;Test bandit;1715892;;customform;field;colorpicker;;;;Colortest;DA
+ipw;form1173673;1173673;Erfaringer & Forbedringsmuligheder;1716067;1397446;customformelement;field;combo;;;;Kategori;DA
+ipw;form1704636;1704636;Den lille test bandit hjÃ¦lper;1716341;;customform;field;text;;;;Tekstfelt;DA
+ipw;form1600633;1600633;Test bandit;1721711;;customform;field;relation;;;document;Sort missing?;DA
+ipw;form1712765;1712765;Forecast;1723857;;customform;field;attachfile;;;;Gemt PDF af fordeling;DA
+ipw;form1683675;1683675;SI - Handleplan;1729611;2359167;customformelement;field;relation;;;form1683736;IgangsÃ¦ttelsesperiode;DA
+ipw;form1683675;1683675;SI - Handleplan;1729633;1683677;customformelement;block;;layout_column;;;1;DA
+ipw;form1704636;1704636;Den lille test bandit hjÃ¦lper;1735012;;customform;field;date;;;;Dato;DA
+ipw;form1600633;1600633;Test bandit;1736329;;customform;field;string;;;;Nr.;DA
+ipw;form1600633;1600633;Test bandit;1736332;;customform;field;combo;;;;Kategori;DA
+ipw;form1600633;1600633;Test bandit;1736335;;customform;field;combo;;;;Type;DA
+ipw;form1600633;1600633;Test bandit;1736395;;customform;field;text;;;;Beskrivelse;DA
+ipw;form1600633;1600633;Test bandit;1737346;;customform;field;multiselect;;;form1196214;test;DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;1741948;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form695920;695920;Budgettal;1745154;;customform;field;decimal;;;;Debiteret support;DA
+ipw;form695920;695920;Budgettal;1745155;;customform;field;decimal;;;;Kursusvirksomhed;DA
+ipw;form1746464;1746464;Small Business - Varer;1746466;;customform;field;string;;;;Navn;DA
+ipw;form1746464;1746464;Small Business - Varer;1746467;;customform;field;decimal;;;;Pris ex moms;DA
+ipw;form1746464;1746464;Small Business - Varer;1746468;;customform;field;combo;;;;Varegruppe;DA
+ipw;form1683675;1683675;SI - Handleplan;1754955;;customform;block;;layout_fieldset;;;Status;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758189;;customform;field;combo;;;;Hvor tit arbejder du hjemmefra nu om ugen (i gennemsnit);DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758198;;customform;field;combo;;;;Hvor meget forventer du at arbejde hjemmefra efter 'Corona' (i gennemsnit);DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758199;;customform;block;;layout_fieldset;;;Arbejdsplads;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758200;1758199;customformelement;special;;;layout_text;;FÃ¸lgende spÃ¸rgsmÃ¥l handler om din arbejdsplads derhjemme eller det sted derhjemme hvor du arbejder nÃ¥r du arbejder hjemmefra.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758201;1758199;customformelement;field;combo;;;;Hvor stor er afstanden fra dine Ã¸jne til skÃ¦rmen(e);DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758205;1758199;customformelement;field;radiobutton;;;;Har du frit benplads under dit arbejdsbord?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758206;;customform;special;;;layout_fixedimage;;Benplads;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758236;1758199;customformelement;field;combo;;;;Hvor meget afstand er der bag forkanten af dit skrivebord? Dvs hvor meget plads er der til at bevÃ¦ge din stol bagud.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758237;1758199;customformelement;field;combo;;;;Hvor meget benplads har du i bredden? Dvs hvor meget du kan bevÃ¦ge dine ben til hÃ¸jre og til venstre.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758238;1758199;customformelement;field;radiobutton;;;;Kan dit bord indstilles i hÃ¸jde?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758239;1758199;customformelement;field;combo;;;;Har du en fast arbejdsplads der er indstillet til computerarbejde? Dvs ikke kÃ¸kkenbordet, havebordet, osv.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758240;1758199;customformelement;field;combo;;;;Bruger du en kontorstol der kan indstilles?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758242;1758199;customformelement;field;combo;;;;Har du tastatur, mus, og ekstern skÃ¦rm tilsluttet din bÃ¦rbar pc nÃ¥r du arbejder hjemmefra?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758250;1758199;customformelement;field;combo;;;;Har du reflektion fra lys eller vinduer i din skÃ¦rm?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758245;1758199;customformelement;field;text;;;;Specificer;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758254;1758199;customformelement;field;combo;;;;Hvordan oplever du belysningen pÃ¥ din arbejdsplads?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758255;1758199;customformelement;field;radiobutton;;;;Kan du arbejde uforstyrret?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758259;1758199;customformelement;field;radiobutton;;;;Kan du arbejde frit for stÃ¸jgener?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758260;1758199;customformelement;field;combo;;;;Kan du bruge software online du har til rÃ¥dighed til at udfÃ¸re dit arbejde, f.e. adgang til IPW intranet, adgang til kunder, eller online setup for kundemÃ¸der.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758261;1758199;customformelement;field;text;;;;Forklar;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758267;1758199;customformelement;field;text;;;;Hvilke stÃ¸jgener?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758270;1758199;customformelement;field;text;;;;Hvad for slags forstyrrelser?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758287;;customform;special;;;layout_fixedimage;;Armplads;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758288;;customform;special;;;layout_fixedimage;;BevÃ¦gelse;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758289;;customform;special;;;layout_fixedimage;;Holdning;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758321;1758199;customformelement;special;;;layout_text;;Se ogsÃ¥ billederne under spÃ¸rgeskemaet og brug gerne et mÃ¥lebÃ¥nd.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758302;1758199;customformelement;field;text;;;;Kommentar;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758314;1758199;customformelement;special;;;layout_text;;Du skal tage udgangspunkt i din almindelige arbejdsstilling.;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758322;1758199;customformelement;field;text;;;;HvornÃ¥r oplever du en dÃ¥rlig belysning?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758341;1758199;customformelement;field;combo;;;;Oplever du at du har den rigtige arbejdsstilling?;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1758384;;customform;special;;;createdby;;Oprettet af;DA
+ipw;form1761709;1761709;Onboarding - opgaver;1761710;;customform;field;string;;;;Beskrivelse;DA
+ipw;form1761741;1761741;Onboarding - opgavetyper;1761742;;customform;field;string;;;;Typenavn;DA
+ipw;form1761709;1761709;Onboarding - opgaver;1761713;;customform;field;relation;;;form1761741;Type;DA
+ipw;form1761709;1761709;Onboarding - opgaver;1761714;;customform;field;integer;;;;Sortering;DA
+ipw;form1761709;1761709;Onboarding - opgaver;1761715;;customform;field;confirmcheckbox;;;;UdfÃ¸rt;DA
+ipw;form1761716;1761716;Onboarding - HR;1761717;;customform;field;string;;;;Medarbejdernavn;DA
+ipw;form1761718;1761718;Onboarding - Administration;1761719;;customform;field;relation;;;form1761716;Medarbejdernavn;DA
+ipw;form1761718;1761718;Onboarding - Administration;1763992;;customform;field;inline;;;form1761709;Opgaver;DA
+ipw;form1763994;1763994;Onboarding - Direktion;1763995;;customform;field;relation;;;form1761716;Medarbejdernavn;DA
+ipw;form1763994;1763994;Onboarding - Direktion;1763996;;customform;field;inline;;;form1761709;Opgaver;DA
+ipw;form1763998;1763998;Onboarding - IT;1763999;;customform;field;relation;;;form1761716;Medarbejdernavn;DA
+ipw;form1763998;1763998;Onboarding - IT;1764000;;customform;field;inline;;;form1761709;Opgaver;DA
+ipw;form1764002;1764002;Onboarding - Mentor;1764003;;customform;field;relation;;;form1761716;Medarbejdernavn;DA
+ipw;form1764002;1764002;Onboarding - Mentor;1764004;;customform;field;relation;;;user;VÃ¦lg mentor;DA
+ipw;form1764002;1764002;Onboarding - Mentor;1764005;;customform;field;inline;;;form1761709;Opgaver;DA
+ipw;form1764007;1764007;Onboarding - NÃ¦rmeste leder;1764008;;customform;field;relation;;;form1761716;Medarbejdernavn;DA
+ipw;form1764007;1764007;Onboarding - NÃ¦rmeste leder;1764009;;customform;field;userrelation;;;;VÃ¦lg nÃ¦rmeste leder;DA
+ipw;form1764007;1764007;Onboarding - NÃ¦rmeste leder;1764015;;customform;field;inline;;;form1761709;Opgaver;DA
+ipw;form1764002;1764002;Onboarding - Mentor;1764022;;customform;special;;;responsible;;Mentor;DA
+ipw;form1764007;1764007;Onboarding - NÃ¦rmeste leder;1764046;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form829798;829798;Lead til salg;1764446;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form1765036;1765036;OTP;1765037;;customform;field;string;;;;Secret;DA
+ipw;form1683675;1683675;SI - Handleplan;1789364;1754955;customformelement;field;text;;;;Status / Lessons Learned;DA
+ipw;form1791986;1791986;Vareoversigt;1791987;;customform;field;relation;;;ipwproduct;Vare;DA
+ipw;form1791986;1791986;Vareoversigt;1791988;1791995;customformelement;field;html;;;;Tilbudstekst;DA
+ipw;form1791986;1791986;Vareoversigt;1791995;;customform;block;;layout_fieldset;;;Tilbud;DA
+ipw;form1791986;1791986;Vareoversigt;1791989;1791995;customformelement;field;listselect;;;document;Tilbudsskabelon DK;DA
+ipw;form1791986;1791986;Vareoversigt;1791990;;customform;block;;layout_fieldset;;;Installation;DA
+ipw;form1791986;1791986;Vareoversigt;1791991;1791990;customformelement;field;radiobutton;;;;Aktiveres via konfiguration;DA
+ipw;form1791986;1791986;Vareoversigt;1791992;1791990;customformelement;field;listselect;;;document;Vejledning;DA
+ipw;form1791986;1791986;Vareoversigt;1791996;1791995;customformelement;field;radiobutton;;;;Har sÃ¦rskilt tilbudsskabelon;DA
+ipw;form1791986;1791986;Vareoversigt;1792000;;customform;block;;layout_fieldset;;;Dokumentation;DA
+ipw;form1791986;1791986;Vareoversigt;1792002;1792000;customformelement;field;url;;;;Website DK;DA
+ipw;form1791986;1791986;Vareoversigt;1792003;1792000;customformelement;field;url;;;;Website EN;DA
+ipw;form1791986;1791986;Vareoversigt;1792004;1792000;customformelement;field;url;;;;Supportsite;DA
+ipw;form1791986;1791986;Vareoversigt;1792005;1792000;customformelement;field;radiobutton;;;;Webinar;DA
+ipw;form1791986;1791986;Vareoversigt;1792017;1791990;customformelement;field;radiobutton;;;;Installationsvejledning;DA
+ipw;form1791986;1791986;Vareoversigt;1792013;1792000;customformelement;field;url;;;;Webinaroversigt;DA
+ipw;form1791986;1791986;Vareoversigt;1792025;1791990;customformelement;field;text;;;;VÃ¦sentlig info;DA
+ipw;form1791986;1791986;Vareoversigt;1792026;1792000;customformelement;field;url;;;;Demosite DK;DA
+ipw;form1791986;1791986;Vareoversigt;1792027;1792000;customformelement;field;url;;;;Demosite EN;DA
+ipw;form1791986;1791986;Vareoversigt;1792029;;customform;block;;layout_fieldset;;;Ordre;DA
+ipw;form1791986;1791986;Vareoversigt;1792030;1792029;customformelement;field;text;;;;Opgaveflow;DA
+ipw;form1791986;1791986;Vareoversigt;1792034;1791990;customformelement;field;combo_multiple;;;;Kan leveres/installeres af;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1800507;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1800543;;customform;block;;layout_fieldset;;;ArbejdsmiljÃ¸gruppen;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1800549;1800543;customformelement;field;radiobutton;;;;Vurdering AMG;DA
+ipw;form1758187;1758187;APV 2021 Arbejde hjemmefra;1800554;1800543;customformelement;field;texthistory;;;;Kommentar;DA
+ipw;form1600633;1600633;Test bandit;1805595;;customform;special;;;objectid;;ObjectId;DA
+ipw;form1806224;1806224;Offboarding - opgavetyper;1806225;;customform;field;string;;;;Typenavn;DA
+ipw;form1761709;1761709;Onboarding - opgaver;1813133;;customform;field;string;;;;Kommentar;DA
+ipw;form1365947;1365947;PlanlÃ¦gningslinjer;1820074;;customform;field;string;;;;Note;DA
+ipw;form1827095;1827095;MÃ¥letal;1827096;;customform;field;relation;;;form1827097;Emne;DA
+ipw;form1827097;1827097;MÃ¥letal emner;1827098;;customform;field;string;;;;Tekst;DA
+ipw;form1836490;1836490;Konkurrentoversigt - regnskabsopl;1836491;;customform;field;string;;;;RegnskabsÃ¥r;DA
+ipw;form1836490;1836490;Konkurrentoversigt - regnskabsopl;1836493;;customform;field;decimal;;;;Bruttofortjeneste, tkr;DA
+ipw;form1836490;1836490;Konkurrentoversigt - regnskabsopl;1836494;;customform;field;decimal;;;;OmsÃ¦tning, tkr;DA
+ipw;form1836490;1836490;Konkurrentoversigt - regnskabsopl;1836495;;customform;field;decimal;;;;Ã…rets resultat (efter skat);DA
+ipw;form1836490;1836490;Konkurrentoversigt - regnskabsopl;1836501;;customform;field;relation;;;form773803;Konkurrent;DA
+ipw;form1846032;1846032;Flowchart Roles;1846033;;customform;field;string;;;;Role;DA
+ipw;form1858414;1858414;Esbens hygge formular;1858415;;customform;field;string;;;;Navn v2;DA
+ipw;form1858414;1858414;Esbens hygge formular;1858416;;customform;field;text;;;;HÃ¦ndelse;DA
+ipw;form1858414;1858414;Esbens hygge formular;1858417;;customform;field;date;;;;Dato;DA
+ipw;form1329139;1329139;Leverancer;1860472;1860481;customformelement;field;date;;;;Formular opstart;DA
+ipw;form1329139;1329139;Leverancer;1860481;1329153;customformelement;block;;layout_column;;;KURSUS KOLONNE;DA
+ipw;form1329139;1329139;Leverancer;1860500;;customform;block;;layout_column;;;KOLONNE EVALUERING;DA
+ipw;form1329139;1329139;Leverancer;1860679;1419994;customformelement;special;;;layout_text;;Opret evaluering via Fanebladet sÃ¥ disse er linket sammen;DA
+ipw;form1418063;1418063;Evaluering af Ny kunde forlÃ¸b;1860685;1418072;customformelement;field;relation;;;form1329139;TilhÃ¸rende Leverance;DA
+ipw;form1329139;1329139;Leverancer;1860781;1419994;customformelement;field;text;;;;Kommentar;DA
+ipw;form1329139;1329139;Leverancer;1860810;1419994;customformelement;field;checkbox;;;;Evaluering udfÃ¸res ikke;DA
+ipw;form1229546;1229546;Udstyr;1864704;2349762;customformelement;field;confirmcheckbox;;;;Onedrive installeret;DA
+ipw;form1867496;1867496;Testpunkter pÃ¥ installationer;1867497;;customform;field;relation;;;company;Virksomhed;DA
+ipw;form1867496;1867496;Testpunkter pÃ¥ installationer;1867501;;customform;field;string;;;;Overskrift;DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1868849;;customform;field;string;;;;Produktnavn;DA
+ipw;form1867496;1867496;Testpunkter pÃ¥ installationer;1867502;;customform;field;html;;;;Testbeskrivelse;DA
+ipw;form1867496;1867496;Testpunkter pÃ¥ installationer;1867503;;customform;field;confirmcheckbox;;;;Kvittering;DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1868852;;customform;field;combo_multiple;;;;Softwarepakke;DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1868873;;customform;field;radiobutton;;;;Type;DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1868904;;customform;field;decimal;;;;Pris (over 250);DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1868905;;customform;field;decimal;;;;Pris (under 250);DA
+ipw;form1868848;1868848;Esben test til kontraktgenerator;1870435;;customform;field;decimal;;;;Pris (pr. mÃ¥ned);DA
+ipw;form1329139;1329139;Leverancer;1882102;1372368;customformelement;field;date;;;;Installation udsat - pÃ¥mind;DA
+ipw;form1870853;1870853;Philips Tester;1882777;;customform;field;inline;;;document;Inline;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885643;;customform;field;string;;;;Titel;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885644;;customform;field;text;;;;Beskrivelse;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885645;;customform;field;integer;;;;Frekvens (dage);DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885649;;customform;field;date;;;;Senest udfÃ¸rt;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885651;;customform;field;date;;;;NÃ¦ste udfÃ¸relse;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885673;;customform;field;relation;;;document;Evt tilhÃ¸rende dokument;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1885679;;customform;field;url;;;;Evt link til registreringer;DA
+ipw;form1886010;1886010;ServicebesÃ¸g;1886013;;customform;field;listselect;;;document;ServicebesÃ¸g;DA
+ipw;form1621149;1621149;IPW Server;1886861;;customform;field;date;;;;Sidste systemopdatering;DA
+ipw;form1621149;1621149;IPW Server;1886862;;customform;field;date;;;;Sidste genstart;DA
+ipw;form1887113;1887113;decimaltester;1888871;;customform;field;decimal;;;;Input 1;DA
+ipw;form1887113;1887113;decimaltester;1888872;;customform;field;decimal;;;;Input 2;DA
+ipw;form1887113;1887113;decimaltester;1888873;;customform;field;decimal;;;;Output;DA
+ipw;form1885642;1885642;ISMS Ã…rshjulslogning;1899445;;customform;field;date;;;;Dato;DA
+ipw;form1885642;1885642;ISMS Ã…rshjulslogning;1899448;;customform;field;text;;;;Beskrivelse;DA
+ipw;form4129;1248442;Informationsaktiver;1899850;;customform;field;combo;;;;Fortrolighed;DA
+ipw;form4129;1248442;Informationsaktiver;1899935;;customform;field;decimal;;;;Score;DA
+ipw;form4129;1248442;Informationsaktiver;1899853;;customform;field;combo;;;;TilgÃ¦ngelighed;DA
+ipw;form4129;1248442;Informationsaktiver;1899858;;customform;field;combo;;;;Integritet;DA
+ipw;form4129;1248442;Informationsaktiver;1900040;;customform;field;relation;;;form4132;LeverandÃ¸r;DA
+ipw;form4129;1248442;Informationsaktiver;1900071;;customform;block;;layout_hiddenblock;;;UdgÃ¥ede felter;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;1900220;;customform;block;;layout_hiddenblock;;;UdgÃ¥ede felter;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;1902191;;customform;field;checkbox;;;;Direktion;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903781;;customform;field;relation;;;form4132;LeverandÃ¸r;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903782;;customform;field;integer;;;;Kontrol-Ã¥r;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903786;;customform;field;combo;;;;Godkendt efter;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903783;;customform;field;confirmcheckbox;;;;GennemfÃ¸rt;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903787;;customform;field;attachfile;;;;Certifikat(er);DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903792;;customform;field;text;;;;Uddyb anden vurdering;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903824;;customform;block;;layout_fieldset;;;Scope omfatter;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903825;1903824;customformelement;field;checkbox;;;;Anvendte produkt(er);DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903826;1903824;customformelement;field;checkbox;;;;Korrekte lokationer;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903827;1903824;customformelement;field;checkbox;;;;Operationel og fysisk sikkerhed;DA
+ipw;form1903780;1903780;ISMS Evaluering af kritiske leverandÃ¸rers fysiske sikkerhed;1903830;;customform;field;date;;;;Gyldig til;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904282;;customform;field;integer;;;;Nr;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904283;;customform;field;string;;;;Kapitel;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904284;;customform;field;string;;;;Afsnit;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904285;;customform;field;text;;;;Beskrivelse;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904286;;customform;field;combo;;;;Status;DA
+ipw;form1904281;1904281;ISAE 3402 kontroller;1904287;;customform;field;multiselect;;;document;Dokumenter;DA
+ipw;form1905946;1905946;CSA - Vurdering;1905947;;customform;field;string;;;;Beskrivelse;DA
+ipw;form1905946;1905946;CSA - Vurdering;1905951;;customform;field;colorpicker;;;;Farvekode;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905955;;customform;block;;layout_fieldset;;;Info;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905956;1905955;customformelement;special;;;created;;Udfyldt d.;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905966;1905955;customformelement;special;;;createdby;;Udfyldt af;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905971;1905955;customformelement;field;relation;;;form1905946;Vurdering pÃ¥ baggrund af besvarelsen;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905976;;customform;block;;layout_fieldset;;;SpÃ¸rgsmÃ¥l;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905981;1905976;customformelement;field;radiobutton;;;;Er du bekendt med, at have modtaget en phishing mail?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905986;1905976;customformelement;field;radiobutton;;;;Hvordan hÃ¥ndterede du mailen?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1905993;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906006;1905976;customformelement;field;string;;;;Hvis du mener at flere at svarene passer, sÃ¥ vÃ¦lg evt. andet og uddyb. Ellers vÃ¦lg det svar, du fÃ¸ler mest om.;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906012;1905976;customformelement;field;radiobutton;;;;Hvordan sikrer man sig, at der er tale om en valid afsender pÃ¥ en e-mail?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906017;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906025;1905976;customformelement;field;radiobutton;;;;Hvad er vigtigst i forhold til ens kodeord?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906030;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906038;1905976;customformelement;field;radiobutton;;;;Du modtager et opkald fra banken, vedr. skiftet fra NemID til MitID, som skete her 1. oktober. De beder dig verificere dine informationer, for at kunne skifte dig over.;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906051;1905976;customformelement;field;radiobutton;;;;En kunde har sendt en e-mail med et excel-ark, hvori der er indskrevet navne og CPR-nr. pÃ¥ deres medarbejdere. Hvad gÃ¸r du?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906043;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906056;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906064;;customform;block;;layout_fieldset;;;Behandling;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906069;1906064;customformelement;special;;;responsible;;Ansvarlig behandler;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906074;1906064;customformelement;field;userrelation;;;;Skift ansvarlig behandler;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906079;1906064;customformelement;field;date;;;;Dato for indledende behandling;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906084;1906064;customformelement;field;date;;;;Dato for opfÃ¸lgning;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906090;1906064;customformelement;field;url;;;;Link til phishing kampagne;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906095;1906064;customformelement;field;text;;;;BemÃ¦rkninger;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906100;1906064;customformelement;field;radiobutton;;;;Videre forlÃ¸b;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906105;1906064;customformelement;field;url;;;;Link til materiale;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906110;1906064;customformelement;field;text;;;;Uddybning;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906120;1906064;customformelement;field;relation;;;form1905946;Overordnet vurdering;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1906126;1906064;customformelement;field;confirmcheckbox;;;;BekrÃ¦ftelse for fÃ¦rdigbehandling;DA
+ipw;form1887113;1887113;decimaltester;1913197;;customform;field;decimal;;;;Audit inspection score;DA
+ipw;form1329139;1329139;Leverancer;1913429;1860481;customformelement;field;date;;;;Leverance udsat til (parkeret);DA
+ipw;form1918204;1918204;Indberetning;1918205;;customform;field;radiobutton;;;;Type;DA
+ipw;form1918204;1918204;Indberetning;1918206;;customform;field;date;;;;Observeret;DA
+ipw;form1918204;1918204;Indberetning;1918207;;customform;field;combo;;;;Lokation;DA
+ipw;form1918204;1918204;Indberetning;1918209;;customform;field;checkbox;;;;F1 kategori;DA
+ipw;form1918204;1918204;Indberetning;1918211;;customform;field;checkbox;;;;F2 kategori;DA
+ipw;form1918234;1918234;Rundering;1919435;;customform;special;;;layout_buttonupload;;Upload filer;DA
+ipw;form1918234;1918234;Rundering;1919436;;customform;field;attachfile;;;;Fil fra PC (single);DA
+ipw;form1918234;1918234;Rundering;1919437;;customform;field;attachfile;;;;Fil fra PC (multi);DA
+ipw;form1918234;1918234;Rundering;1919438;;customform;field;imagethumbattach;;;;Billede fra PC;DA
+ipw;form1918234;1918234;Rundering;1919439;;customform;field;imagethumbattach;;;;Billede;DA
+ipw;form1918234;1918234;Rundering;1919440;;customform;special;;;layout_linebreak;;Blanko;DA
+ipw;form1918234;1918234;Rundering;1919441;;customform;special;;;layout_linebreak;;Blanko;DA
+ipw;form1918234;1918234;Rundering;1919442;;customform;special;;;layout_linebreak;;Blanko;DA
+ipw;form1918234;1918234;Rundering;1919443;;customform;special;;;layout_linebreak;;Blanko;DA
+ipw;form1886010;1886010;ServicebesÃ¸g;1921146;;customform;field;confirmcheckbox;;;;UdfÃ¸rt;DA
+ipw;form1886010;1886010;ServicebesÃ¸g;1923367;;customform;field;confirmcheckbox;;;;Ikke relevant;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;1927876;2592044;customformelement;field;relation;;;company;Kunde;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;1927878;2592044;customformelement;field;date;;;;Client secret oprettet;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;1927880;2592044;customformelement;field;relation;;;ipwinstallation;Site;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;1927881;2592044;customformelement;field;text;;;;BemÃ¦rkning;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;1932982;1906064;customformelement;field;multiselect;;;form1426197;Dato for gennemgang af CSA;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;1944119;;customform;field;date;;;;Dato;DA
+ipw;form1944152;1944152;DriftsikkerhedsmÃ¸dereferater;1944153;;customform;field;date;;;;Dato;DA
+ipw;form1944152;1944152;DriftsikkerhedsmÃ¸dereferater;1944154;;customform;field;text;;;;Dagsorden;DA
+ipw;form1944152;1944152;DriftsikkerhedsmÃ¸dereferater;1944155;;customform;field;text;;;;Referat;DA
+ipw;form1600633;1600633;Test bandit;1945011;;customform;block;;layout_fieldset;;;Gruppe;DA
+ipw;form1600633;1600633;Test bandit;1945161;;customform;field;multiselect;;;department;ListDialog;DA
+ipw;form1600633;1600633;Test bandit;1945174;;customform;field;combo_multiple;;;;M;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945335;;customform;field;radiobutton;;;;Type;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945336;;customform;special;;;layout_buttonupload;;Dokumenter;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945337;;customform;special;;;businessunit;;Forretningsenheder;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945338;;customform;field;relation_multiple;;;category;Kategorier;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945372;;customform;field;userrelation;;;;Dokumentansvarlig;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945373;;customform;field;userrelation;;;;Dokumentgodkender;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945375;;customform;field;text;;;;Liste af dokumentnavne;DA
+ipw;form1945333;1945333;ImportÃ©r / Masseopret dokumenter;1945411;;customform;field;listselect;;;structureelement;Opret under menupunkt;DA
+ipw;form894000;894000;Reference demo;1950532;;customform;special;;;createdby;;Oprettet af;DA
+ipw;form1378060;1378060;FerieÃ¸nsker;1955866;;customform;field;combo;;;;Type;DA
+ipw;form1378060;1378060;FerieÃ¸nsker;1955871;;customform;field;checkbox;;;;Halv dag;DA
+ipw;form1963616;1963616;Indlejret tabel Philip;1963625;;customform;field;inline;;;listcol;Indlejret tabel;DA
+ipw;form1963633;1963633;Philip Indlejret HjÃ¦lpdetabel;1963634;;customform;field;string;;;;Tekst;DA
+ipw;form1963633;1963633;Philip Indlejret HjÃ¦lpdetabel;1963636;;customform;field;date;;;;Dato;DA
+ipw;form1963633;1963633;Philip Indlejret HjÃ¦lpdetabel;1963638;;customform;field;string;;;;Lokation;DA
+ipw;form1963633;1963633;Philip Indlejret HjÃ¦lpdetabel;1963641;;customform;field;relation;;;user;kontaktperson;DA
+ipw;form1984547;1984547;Versioner;1984556;;customform;field;versionnumber;;;;Versionnr;DA
+ipw;form1984547;1984547;Versioner;1984561;;customform;block;;layout_fieldset;;;Release notes;DA
+ipw;form1984547;1984547;Versioner;1984567;1984561;customformelement;field;html;;;;Versionskommentar til bruger (dansk);DA
+ipw;form1984686;1984686;nj test create;1984687;;customform;field;relation;;;category;opret;DA
+ipw;form1984547;1984547;Versioner;1984572;1984561;customformelement;field;html;;;;Versionskommentar til bruger (engelsk);DA
+ipw;form1984547;1984547;Versioner;1984578;;customform;block;;layout_fieldset;;;Teknik;DA
+ipw;form1984547;1984547;Versioner;1984584;1984578;customformelement;field;relation_multiple;;;form656500;Erstatter version;DA
+ipw;form1984547;1984547;Versioner;1984590;1984578;customformelement;field;string;;;;PHP Extension;DA
+ipw;form1984547;1984547;Versioner;1984595;;customform;block;;layout_fieldset;;;Godkendelser;DA
+ipw;form1704636;1704636;Den lille test bandit hjÃ¦lper;2020880;;customform;field;imagethumbattach;;;;Billede;DA
+ipw;form1984547;1984547;Versioner;1984600;2004137;customformelement;field;confirmcheckbox;;;;Godkendt at QA;DA
+ipw;form1984547;1984547;Versioner;1984607;;customform;field;date;;;;Forventet udgivelsesdato;DA
+ipw;form1984547;1984547;Versioner;1984612;1984595;customformelement;field;confirmcheckbox;;;;Jira release klar;DA
+ipw;form1984547;1984547;Versioner;1984625;1984595;customformelement;field;confirmcheckbox;;;;Demo for konsulenter afholdt;DA
+ipw;form1984547;1984547;Versioner;1984617;1984595;customformelement;field;confirmcheckbox;;;;VersionsmÃ¸de afholdt;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2029738;;customform;field;integer;;;;Opdateringer pr. dag;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;1987980;;customform;field;relation;;;employee;Medarbejder;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;1987994;;customform;field;radiobutton;;;;Jeg / Vi Ã¸nsker overnatning;DA
+ipw;form1984547;1984547;Versioner;2004129;;customform;field;date;;;;Udgivelsesdato;DA
+ipw;form1984547;1984547;Versioner;2004137;;customform;block;;layout_fieldset;;;QA;DA
+ipw;form1984547;1984547;Versioner;2004143;2004137;customformelement;field;integer;;;;Antal testpunkter;DA
+ipw;form1984547;1984547;Versioner;2004149;1984578;customformelement;field;integer;;;;Antal releasefix;DA
+ipw;form1984547;1984547;Versioner;2004160;2004137;customformelement;field;integer;;;;Antal testpunkter fejlet;DA
+ipw;form1984547;1984547;Versioner;2004166;2004137;customformelement;field;integer;;;;Antal testpunker dispenseret;DA
+ipw;form1984547;1984547;Versioner;2004175;1984578;customformelement;field;integer;;;;Antal features;DA
+ipw;form1984547;1984547;Versioner;2004180;1984578;customformelement;field;integer;;;;Antal bugs;DA
+ipw;form1984547;1984547;Versioner;2004187;1984578;customformelement;field;integer;;;;Antal code changes/features;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020913;;customform;block;;layout_fieldset;;;Information;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020914;;customform;block;;layout_column;;;Column Hazards;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020916;;customform;block;;layout_column;;;Column Safety violations;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020920;2020913;customformelement;field;combo;;;;Workshop / site;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020921;2020913;customformelement;field;date;;;;Date;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020922;2020913;customformelement;field;decimal;;;;Number of workers at risk;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020924;2020913;customformelement;field;text;;;;Equipment/operation;DA
+ipw;form2020888;2020888;Hazard ID Card example;2020925;2020913;customformelement;field;text;;;;Name / contact details;DA
+ipw;form2020976;2020976;Hazards checkpunkter;2020977;;customform;field;text;;;;Tekst;DA
+ipw;form2020976;2020976;Hazards checkpunkter;2020979;;customform;field;imagethumbattach;;;;Image;DA
+ipw;form2020976;2020976;Hazards checkpunkter;2020983;;customform;field;checkbox;;;;Check;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021000;2021047;customformelement;field;inline;;;form2020976;Hazards;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021015;2020913;customformelement;field;radiobutton;;;;What event have you witnessed?;DA
+ipw;form2021017;2021017;Safety violations checkpunkter;2021018;;customform;field;imagethumbattach;;;;Image;DA
+ipw;form2021017;2021017;Safety violations checkpunkter;2021019;;customform;field;text;;;;Tekst;DA
+ipw;form2021017;2021017;Safety violations checkpunkter;2021020;;customform;field;checkbox;;;;Check;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021031;2021046;customformelement;field;inline;;;form2021017;Safety violations;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021046;2020916;customformelement;block;;layout_fieldset;;;Safety violations;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021047;2020914;customformelement;block;;layout_fieldset;;;Hazards;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021064;2020913;customformelement;field;text;;;;Brief description;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021065;2020913;customformelement;field;text;;;;Actions you have taken;DA
+ipw;form2020888;2020888;Hazard ID Card example;2021066;2020913;customformelement;field;text;;;;Proposed corrective measures;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;2021488;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;2021491;;customform;field;userrelation;;;;Ansvarshavende;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;2021519;;customform;field;checkbox;;;;Sikkerhedsorganisation;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2029744;;customform;field;integer;;;;Opdateringsinterval;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2029775;;customform;field;checkbox;;;;Stop al autoopdatering;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2029778;;customform;field;checkbox;;;;Tillad kun hotfixopdateringer;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2070890;;customform;field;combo;;;;Slacknotifikationer;DA
+ipw;form1019401;1019401;Ulykker og nÃ¦rved hÃ¦ndelser;2095635;;customform;block;;layout_fieldset;;;Info;DA
+ipw;form1019401;1019401;Ulykker og nÃ¦rved hÃ¦ndelser;2095640;2095635;customformelement;field;autonum;;;;Nummer;DA
+ipw;form1019401;1019401;Ulykker og nÃ¦rved hÃ¦ndelser;2095645;2095635;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form1019401;1019401;Ulykker og nÃ¦rved hÃ¦ndelser;2095649;2095635;customformelement;special;;;created;;Oprettet;DA
+ipw;form1019401;1019401;Ulykker og nÃ¦rved hÃ¦ndelser;2095653;;customform;block;;layout_fieldset;;;HÃ¦ndelse;DA
+ipw;form2108392;2108392;Test Bandit Kommetnar;2108393;;customform;field;string;;;;Tekst;DA
+ipw;form1712765;1712765;Forecast;2110432;;customform;field;decimal;;;;Kundeemner tilbudssum;DA
+ipw;form1712765;1712765;Forecast;2110433;;customform;field;decimal;;;;Kunder tilbudssum;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;2126803;;customform;field;radiobutton;;;;Dit svar;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;2126806;;customform;field;decimal;;;;Antal voksne inkl. dig selv;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;2126809;;customform;field;decimal;;;;Antal bÃ¸rn (Under 14 Ã¥r);DA
+ipw;form1329139;1329139;Leverancer;2175485;1361499;customformelement;field;confirmcheckbox;;;;Ved salg at klippekort udfyldes modtager af KlippekortopgÃ¸relse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177301;;customform;field;radiobutton;;;;Hvor meget bevÃ¦ger du dig i lÃ¸bet af dagen?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177303;;customform;field;radiobutton;;;;Har du ofte for mange opgaver eller for travlt pÃ¥ arbejdspladsen?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177304;;customform;field;radiobutton;;;;Mangler du hjÃ¦lp / stÃ¸tte fra din ledelse og dine kolleger?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177305;;customform;field;radiobutton;;;;Oplever man mobning, seksuel chikane, diskrimination eller andre krÃ¦nkende handlinger pÃ¥ arbejdspladsen?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177307;;customform;field;radiobutton;;;;Er der for varmt eller koldt i arbejdsrummene eller trÃ¦kker det?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177308;;customform;field;radiobutton;;;;Er luften i lokalerne dÃ¥rlig, f.e. pÃ¥ grund af dÃ¥rlig rengÃ¸ring eller ventilation?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214829;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177310;;customform;field;radiobutton;;;;Er stÃ¸jen i mere end 2 timer om arbejdsdagen sÃ¥ hÃ¸j, at det forstyrrer jeres koncentration og/eller kommunikation?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177311;;customform;field;radiobutton;;;;Er der risiko for, at I kan falde eller snuble over fx rod eller ledninger, eller fordi der er glat pÃ¥ gulvet?;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2177312;;customform;field;radiobutton;;;;Er der risiko for akut overbelastning af kroppen, nÃ¥r I lÃ¸fter, trÃ¦kker eller skubber fx it-udstyr?;DA
+ipw;form2197271;2197271;IPW Anywhere tester;2197274;;customform;field;string;;;;Navn;DA
+ipw;form2197271;2197271;IPW Anywhere tester;2197275;;customform;special;;;layout_buttonupload;;Billede;DA
+ipw;form1984686;1984686;nj test create;2200095;;customform;field;checkbox;;;;tjekboks;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214808;;customform;field;text;;;;Uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214809;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214810;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214811;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214812;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214813;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214814;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214815;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214816;;customform;field;text;;;;Evt. uddybbelse;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2214818;;customform;field;radiobutton;;;;Er der Ã¸vrige forhold der skaber arbejdsmiljÃ¸problemer?;DA
+ipw;form1600633;1600633;Test bandit;2218904;;customform;field;userrelation_multiple;;;;Deltagere;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221500;;customform;field;string;;;;ID;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221501;;customform;field;string;;;;Navn;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221502;;customform;field;html;;;;Beskrivelse;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221522;;customform;field;string;;;;Sidst forsÃ¸gt kÃ¸rt;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221523;;customform;field;string;;;;Sidst kÃ¸rt;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221524;;customform;field;string;;;;Sidste fejl;DA
+ipw;form2221499;2221499;Interne job og notifikationer;2221525;;customform;field;text;;;;Sidste fejlbesked;DA
+ipw;form1600633;1600633;Test bandit;2227620;;customform;special;;;layout_text;;Fritekst morten morelakj;DA
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;2240919;;customform;field;text;;;;Specielle Ã¸nsker /behov til fx kost;DA
+ipw;form1621149;1621149;IPW Server;2244552;;customform;field;string;;;;Maskinnavn;DA
+ipw;form1621149;1621149;IPW Server;2244554;;customform;field;checkbox;;;;Tillad valg;DA
+ipw;form1621149;1621149;IPW Server;2244555;;customform;field;checkbox;;;;Tillad automatisk tildeling;DA
+ipw;form493061;493061;Oprettelse af ipw.dk-site;2244591;;customform;field;relation;;;form1621149;Server;DA
+ipw;form493061;493061;Oprettelse af ipw.dk-site;2244592;;customform;field;checkbox;;;;Manuelt tildeling af server;DA
+ipw;form2250185;2250185;SikkerhedshÃ¦ndelse typer;2250186;;customform;field;string;;;;Type;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2250191;;customform;field;relation;;;form2250185;Type;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2250196;;customform;field;string;;;;Overskrift;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2253397;;customform;special;;;layout_buttonupload;;VedhÃ¦ft filer;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2253404;;customform;field;text;;;;Kommentar;DA
+ipw;form2253424;2253424;Findings;2253425;2253583;customformelement;field;autonum;;;;Finding nr.;DA
+ipw;form2253424;2253424;Findings;2253426;2253583;customformelement;field;date;;;;Dato;DA
+ipw;form2253424;2253424;Findings;2253427;2412860;customformelement;field;relation;;;form1654140;Audit;DA
+ipw;form2253424;2253424;Findings;2253429;2253583;customformelement;field;text;;;;Beskrivelse;DA
+ipw;form1654140;1654140;Audit;2253447;2253532;customformelement;field;multiselect;;;form2253424;Findings (brug faneblad);DA
+ipw;form2253424;2253424;Findings;2253454;2253583;customformelement;field;userrelation;;;;VÃ¦lg ansvarlig;DA
+ipw;form2253424;2253424;Findings;2253492;2253583;customformelement;field;text;;;;Hvad er gjort?;DA
+ipw;form1654140;1654140;Audit;2253532;;customform;block;;layout_fieldset;;;Audit information;DA
+ipw;form2253541;2253541;Audit typer;2253542;;customform;field;string;;;;Type;DA
+ipw;form2253424;2253424;Findings;2253583;;customform;block;;layout_fieldset;;;Findings information;DA
+ipw;form1654140;1654140;Audit;2256316;2253532;customformelement;field;text;;;;Beskrivelse;DA
+ipw;form4129;1248442;Informationsaktiver;2256335;;customform;field;checkbox;;;;Forretningssystem;DA
+ipw;form1329139;1329139;Leverancer;2258143;1860500;customformelement;block;;layout_fieldset;;;KAM tildelt;DA
+ipw;form1329139;1329139;Leverancer;2258149;2258143;customformelement;field;confirmcheckbox;;;;Salgsansvarlig Ã¦ndret til KAM;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269009;;customform;block;;layout_fieldset;;;Info;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269010;2269009;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269013;;customform;block;;layout_fieldset;;;Ã˜nske;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269011;2269009;customformelement;special;;;created;;Oprettet;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269066;2269013;customformelement;special;;;layout_text;;Beskriv gerne 1 Ã¸nske per post, sÃ¥ er det nemmere at prioritere dem;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269014;2269013;customformelement;field;text;;;;Hvem kunne sidde hvor og sammen med hvem?;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269015;2269013;customformelement;field;text;;;;Hvilke ekstra lokaler savner du / ser du behov for?;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269016;2269013;customformelement;field;text;;;;Har du Ã¸vrige anvendelsesbehov pÃ¥ den korte og/eller lange bane?;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269017;;customform;block;;layout_fieldset;;;Prioritering (udfyldes af gruppen);DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269018;2269017;customformelement;field;radiobutton;;;;Prioritet;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269019;2269017;customformelement;field;text;;;;BemÃ¦rkninger;DA
+ipw;form2269035;2269035;Udvidelse af lokaler - input grupper;2269036;;customform;field;string;;;;Gruppen;DA
+ipw;form2269035;2269035;Udvidelse af lokaler - input grupper;2269038;;customform;field;userrelation;;;;Gruppe ansvarlige;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269045;2269009;customformelement;field;relation;;;form2269035;Din gruppe;DA
+ipw;form2269035;2269035;Udvidelse af lokaler - input grupper;2269058;;customform;field;userrelation;;;;Leder;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269049;2269009;customformelement;special;;;responsible;;Ansvarlig;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269050;2269009;customformelement;field;userrelation;;;;Gruppeansvarlige;DA
+ipw;form2269008;2269008;Udvidelse af lokaler - Ã¸nsker;2269059;2269009;customformelement;field;userrelation;;;;CxO;DA
+ipw;form854278;854278;Normtid pr uge;2272626;;customform;field;decimal;;;;Udvikling ikke planlagt;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2274842;2592044;customformelement;field;combo;;;;Hvad bruges client secret til?;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2276063;;customform;field;integer;;;;Deltagerantal;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2276078;2276298;customformelement;field;text;;;;KundeindlÃ¦g;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2276079;2276298;customformelement;field;text;;;;Eksterne indlÃ¦gsholdere;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2276297;2276298;customformelement;field;string;;;;Tema/Emne til Ã¥rets kundeseminar;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2276298;;customform;block;;layout_fieldset;;;Kundeseminar;DA
+ipw;form854278;854278;Normtid pr uge;2277214;;customform;field;decimal;;;;Sum;DA
+ipw;form2335303;2335303;Hosting betinget beskrivelser - Kontrakt generator;2335304;;customform;field;checkbox;;;;Skal vises ved hosting;DA
+ipw;form1426197;1426197;Cyber security awareness tiltag;2289418;;customform;field;radiobutton;;;;Tiltag relevant for;DA
+ipw;form1426197;1426197;Cyber security awareness tiltag;2289424;;customform;field;attachfile;;;;Filer;DA
+ipw;form1885641;1885641;ISMS Ã…rshjul;2289445;;customform;field;multiselect;;;form1885642;Opgavelogning;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2290256;2592044;customformelement;field;confirmcheckbox;;;;Kontaktet forud for fornyelse;DA
+ipw;form1426197;1426197;Cyber security awareness tiltag;2291244;;customform;field;userrelation;;;;Ansvarlig for udfÃ¸relse;DA
+ipw;form2253424;2253424;Findings;2303854;2303882;customformelement;field;date;;;;NÃ¦ste opfÃ¸lgningsdato;DA
+ipw;form2253424;2253424;Findings;2303878;2303882;customformelement;field;text;;;;OpfÃ¸lgning;DA
+ipw;form2253424;2253424;Findings;2303882;;customform;block;;layout_fieldset;;;OpfÃ¸lgning;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2312527;;customform;field;integer;;;;OpdateringsforsÃ¸g pr. dag;DA
+ipw;form2253424;2253424;Findings;2317674;2253583;customformelement;field;string;;;;Overskrift;DA
+ipw;form493061;493061;Oprettelse af ipw.dk-site;2320423;;customform;field;userrelation;;;;Anmoder;DA
+ipw;form1426197;1426197;Cyber security awareness tiltag;2321260;;customform;field;url;;;;Link til optagelse;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321289;1905976;customformelement;field;radiobutton;;;;Bruger du en kodeordsgenerator eller passwordmanager?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321295;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321317;1905976;customformelement;field;radiobutton;;;;Har du opsat 2faktor pÃ¥ dine konti?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321334;1905976;customformelement;field;riskmatrix;;;;Hvordan vurderer du din egen forstÃ¥else for IT-Sikkerhed og din generel ageren ude pÃ¥ internettet?;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321322;1905976;customformelement;field;text;;;;Uddyb;DA
+ipw;form1905928;1905928;Cyber Security Awareness Survey;2321376;1905976;customformelement;field;text;;;;Forklar dit valg af egen vurdering;DA
+ipw;form1196047x;1196094;Potentiel lÃ¦k af persondata;2322469;;customform;field;radiobutton;;;;Er der tale om en lÃ¦k?;DA
+ipw;form1173673;1173673;Erfaringer & Forbedringsmuligheder;2325224;1397446;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form1196047x;1196094;Potentiel lÃ¦k af persondata;2322476;;customform;field;text;;;;Begrundelse;DA
+ipw;form2326189;2326189;Studieprojektopgaver;2326190;;customform;field;string;;;;Titel;DA
+ipw;form2326189;2326189;Studieprojektopgaver;2326191;;customform;field;html;;;;Evt. uddybning;DA
+ipw;form2335303;2335303;Hosting betinget beskrivelser - Kontrakt generator;2335305;;customform;field;radiobutton;;;;Type;DA
+ipw;form2335303;2335303;Hosting betinget beskrivelser - Kontrakt generator;2335310;;customform;field;checkbox;;;;Skal vises for eksisterende kunder;DA
+ipw;form2335303;2335303;Hosting betinget beskrivelser - Kontrakt generator;2335312;;customform;field;text;;;;Tekst;DA
+ipw;form2335303;2335303;Hosting betinget beskrivelser - Kontrakt generator;2335315;;customform;field;string;;;;Overskrift;DA
+ipw;form2349291;2349291;Findings - kritikalitet;2349292;;customform;field;string;;;;Tekst;DA
+ipw;form2349291;2349291;Findings - kritikalitet;2349293;;customform;field;colorpicker;;;;Farve;DA
+ipw;form2253424;2253424;Findings;2349306;2253583;customformelement;field;relation;;;form2349291;Kritikalitet;DA
+ipw;form1600633;1600633;Test bandit;2349317;;customform;field;string;;;;NYT FELT;DA
+ipw;form1229546;1229546;Udstyr;2349762;;customform;block;;layout_fieldset;;;UdgÃ¥ede felter;DA
+ipw;form2350590;2350590;Potentialevurdering;2350863;;customform;block;;layout_fieldset;;;Potentialevurdering;DA
+ipw;form2350590;2350590;Potentialevurdering;2350888;2350863;customformelement;field;relation;;;form2368959;Mulig omsÃ¦tning for IPW;DA
+ipw;form2350590;2350590;Potentialevurdering;2351509;2350863;customformelement;field;text;;;;Beskrivelse af potentiale;DA
+ipw;form1858414;1858414;Esbens hygge formular;2351748;;customform;field;decimal;;;;Test bedst;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2352093;;customform;field;checkbox;;;;Gennemtving udgivelse;DA
+ipw;form2350590;2350590;Potentialevurdering;2352893;;customform;block;;layout_fieldset;;;Informationer;DA
+ipw;form2350590;2350590;Potentialevurdering;2352894;2352893;customformelement;field;listselect;;;company;Kunde;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2354809;2592044;customformelement;field;checkbox;;;;Ingen udlÃ¸bsdato;DA
+ipw;form2177298;2177298;APV tjekliste kontor;2356092;;customform;special;;;created;;Dato udfyldt;DA
+ipw;form1683675;1683675;SI - Handleplan;2359113;2359167;customformelement;field;text;;;;Strategisk initiativ;DA
+ipw;form1683675;1683675;SI - Handleplan;2359135;;customform;block;;layout_fieldset;;;UdgÃ¥et felter;DA
+ipw;form1683675;1683675;SI - Handleplan;2359140;2359169;customformelement;field;riskmatrix;;;;Trafiklys;DA
+ipw;form1683675;1683675;SI - Handleplan;2359167;1683680;customformelement;block;;layout_column;;;1;DA
+ipw;form1683675;1683675;SI - Handleplan;2359169;1683680;customformelement;block;;layout_column;;;2;DA
+ipw;form1683675;1683675;SI - Handleplan;2359174;2359175;customformelement;field;text;;;;Relaterede SWOT elementer;DA
+ipw;form1683675;1683675;SI - Handleplan;2359175;1683680;customformelement;block;;layout_column;;;3;DA
+ipw;form1683675;1683675;SI - Handleplan;2359187;1683677;customformelement;block;;layout_column;;;2;DA
+ipw;form1683793;1683793;SI - Aktiviteter;2359195;;customform;field;url;;;;Evt. link til projektmappe pÃ¥ onedrive;DA
+ipw;form1683793;1683793;SI - Aktiviteter;2359198;;customform;field;listselect;;;ipwtask;Opgave til tidsregistrering;DA
+ipw;form1683793;1683793;SI - Aktiviteter;2359200;;customform;field;userrelation_multiple;;;;Deltager team;DA
+ipw;form1683675;1683675;SI - Handleplan;2361558;2359169;customformelement;field;checkbox;;;;Strategisk pejlemÃ¦rke;DA
+ipw;form1683675;1683675;SI - Handleplan;2361561;2359169;customformelement;special;;;layout_fixedimage;;Fremtidsscenarier;DA
+ipw;form2350590;2350590;Potentialevurdering;2367377;2352893;customformelement;field;autonum;;;;Nummer;DA
+ipw;form2350590;2350590;Potentialevurdering;2367383;2352893;customformelement;special;;;created;;Oprettelsesdato;DA
+ipw;form2350590;2350590;Potentialevurdering;2368939;2352893;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form2368959;2368959;Potentialevurdering - OmsÃ¦tning;2368960;;customform;field;string;;;;OmsÃ¦tning;DA
+ipw;form2350590;2350590;Potentialevurdering;2369000;2350863;customformelement;field;string;;;;Potentiale;DA
+ipw;form2312466;2312466;un tester stadier;2369298;;customform;block;;layout_fieldset;;;Sort kaffe;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2380498;;customform;special;;;createdby;;Oprettet af;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2380507;;customform;special;;;created;;Oprettet;DA
+ipw;form2380538;2380538;Offboarding - Opgaver;2380539;;customform;field;string;;;;Beskrivelse;DA
+ipw;form2380533;2380533;Offboarding - Orientering med JHA;2380554;;customform;field;relation;;;form1806611;Medarbejdernavn;DA
+ipw;form1806611;1806611;Offboarding - HR;2380555;;customform;field;string;;;;Medarbejdernavn;DA
+ipw;form2380533;2380533;Offboarding - Orientering med JHA;2380578;;customform;field;inline;;;form2380538;Opgaver;DA
+ipw;form2380538;2380538;Offboarding - Opgaver;2380582;;customform;field;relation;;;form1806224;Type;DA
+ipw;form2380538;2380538;Offboarding - Opgaver;2380583;;customform;field;integer;;;;Sortering;DA
+ipw;form2380538;2380538;Offboarding - Opgaver;2380584;;customform;field;confirmcheckbox;;;;UdfÃ¸rt;DA
+ipw;form2380538;2380538;Offboarding - Opgaver;2380585;;customform;field;string;;;;Kommentar;DA
+ipw;form2380534;2380534;Offboarding - NÃ¦rmeste leder;2380598;;customform;field;relation;;;form1806611;Medarbejdernavn;DA
+ipw;form2380534;2380534;Offboarding - NÃ¦rmeste leder;2380602;;customform;field;userrelation;;;;VÃ¦lg nÃ¦rmeste leder;DA
+ipw;form2380534;2380534;Offboarding - NÃ¦rmeste leder;2380612;;customform;special;;;responsible;;Ansvarlig;DA
+ipw;form2380534;2380534;Offboarding - NÃ¦rmeste leder;2380617;;customform;field;inline;;;form2380538;Opgaver;DA
+ipw;form2380536;2380536;Offboarding - Sidste arbejdsdag v/ JHA;2380655;;customform;field;relation;;;form1806611;Medarbejdernavn;DA
+ipw;form2380536;2380536;Offboarding - Sidste arbejdsdag v/ JHA;2380663;;customform;field;inline;;;form2380538;Opgaver;DA
+ipw;form2380672;2380672;Offboarding - Efter sidste arbejdsdag (JHA);2380676;;customform;field;relation;;;form1806611;Medarbejdernavn;DA
+ipw;form2380672;2380672;Offboarding - Efter sidste arbejdsdag (JHA);2380700;;customform;field;inline;;;form2380538;Opgaver;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384830;;customform;block;;layout_fieldset;;;Information;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384831;;customform;block;;layout_fieldset;;;SpÃ¸rgsmÃ¥l;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384832;;customform;block;;layout_fieldset;;;Konklusion;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384833;2384830;customformelement;field;listselect;;;company;Virksomhed;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384834;2384830;customformelement;field;date;;;;Dato for samtale;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384837;2384831;customformelement;field;inline;;;form2384838;SpÃ¸rgsmÃ¥l;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384868;2384830;customformelement;field;string;;;;Virksomhedsnavn;DA
+ipw;form2384838;2384838;BÃ¦redygtighed - SpÃ¸rgsmÃ¥l;2384839;;customform;field;string;;;;SpÃ¸rgsmÃ¥l;DA
+ipw;form2384838;2384838;BÃ¦redygtighed - SpÃ¸rgsmÃ¥l;2384843;;customform;field;text;;;;Kommentar;DA
+ipw;form2384838;2384838;BÃ¦redygtighed - SpÃ¸rgsmÃ¥l;2384846;;customform;field;confirmcheckbox;;;;UdfÃ¸rt;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384847;2384832;customformelement;field;text;;;;Konklusion pÃ¥ opkald;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384848;2384832;customformelement;field;radiobutton;;;;Vurdering;DA
+ipw;form2384829;2384829;BÃ¦redygtighed - SpÃ¸rgeskema til virksomheder;2384865;2384830;customformelement;field;userrelation;;;;Ansvarlig;DA
+ipw;form2386175;2386175;Risikovurdering;2386176;;customform;block;;layout_fieldset;;;Risikovurdering;DA
+ipw;form2386175;2386175;Risikovurdering;2386177;2386176;customformelement;field;relation;;;form4129;Informationsaktiv;DA
+ipw;form2386175;2386175;Risikovurdering;2386178;2386176;customformelement;field;text;;;;Risikoscenarie;DA
+ipw;form2386175;2386175;Risikovurdering;2386179;2386345;customformelement;field;riskmatrix;;;;Uforanstaltet vurdering;DA
+ipw;form2386175;2386175;Risikovurdering;2386253;2386341;customformelement;field;riskmatrix;;;;Foranstaltet vurdering;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2386256;;customform;field;text;;;;Tekst;DA
+ipw;form2386175;2386175;Risikovurdering;2386258;2386345;customformelement;field;text;;;;Hvad forventer vi der sker, hvis hÃ¦ndelsen bliver til virkelighed?;DA
+ipw;form2386175;2386175;Risikovurdering;2386259;2386345;customformelement;field;text;;;;Hvad er de direkte Ã¸konomiske konsekvenser, hvis hÃ¦ndelsen bliver til virkelighed?;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2386261;2570314;customformelement;field;text;;;;Kommentar;DA
+ipw;form2386325;2386325;Risikovurderingstype;2386326;;customform;field;string;;;;Type;DA
+ipw;form2386175;2386175;Risikovurdering;2386331;2386176;customformelement;field;relation;;;form2386325;Type;DA
+ipw;form2386175;2386175;Risikovurdering;2386341;;customform;block;;layout_fieldset;;;Foranstaltninger;DA
+ipw;form2386175;2386175;Risikovurdering;2386345;;customform;block;;layout_fieldset;;;Uforanstaltet vurdering;DA
+ipw;form10274;2386659;Intern IT Support;2386660;;customform;block;;layout_fieldset;;;Stamdata;DA
+ipw;form10274;2386659;Intern IT Support;2386661;2386660;customformelement;field;autonum;;;;Nummer;DA
+ipw;form10274;2386659;Intern IT Support;2386662;2386660;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form10274;2386659;Intern IT Support;2386663;2386660;customformelement;special;;;created;;Oprettet d.;DA
+ipw;form10274;2386659;Intern IT Support;2386664;2386660;customformelement;special;;;responsible;;Ansvarlig behandler;DA
+ipw;form10274;2386659;Intern IT Support;2386665;;customform;block;;layout_fieldset;;;Oprettelse;DA
+ipw;form10274;2386659;Intern IT Support;2386666;2386665;customformelement;special;;;layout_text;;Opret Ã©n henvendelse pr. problem/spÃ¸rgsmÃ¥l.;DA
+ipw;form10274;2386659;Intern IT Support;2386667;2386665;customformelement;special;;;layout_text;;Hvis fejlen er akut bedes du skrive i #intern-support pÃ¥ slack.;DA
+ipw;form10274;2386659;Intern IT Support;2386668;2386665;customformelement;field;url;;;;Link til #intern-support;DA
+ipw;form10274;2386659;Intern IT Support;2386669;2386665;customformelement;special;;;layout_linebreak;;Blank linje;DA
+ipw;form10274;2386659;Intern IT Support;2386670;2386665;customformelement;field;radiobutton;;;;Type af henvendelse;DA
+ipw;form10274;2386659;Intern IT Support;2386674;2386665;customformelement;field;string;;;;Uddybning;DA
+ipw;form10274;2386659;Intern IT Support;2386675;2386665;customformelement;field;combo;;;;Kritikalitet;DA
+ipw;form10274;2386659;Intern IT Support;2386676;2386665;customformelement;field;combo;;;;Henvendelsestype;DA
+ipw;form10274;2386659;Intern IT Support;2386680;2386665;customformelement;field;combo_multiple;;;;Hvilke programmer oplever du fejl med eller mangler du?;DA
+ipw;form10274;2386659;Intern IT Support;2386683;2386665;customformelement;field;string;;;;Ikke listede programmer;DA
+ipw;form10274;2386659;Intern IT Support;2386684;2386665;customformelement;field;string;;;;Overskrift;DA
+ipw;form10274;2386659;Intern IT Support;2386685;2386665;customformelement;field;text;;;;Beskrivelse af henvendelse;DA
+ipw;form10274;2386659;Intern IT Support;2386686;2386665;customformelement;field;text;;;;Hvad har du selv gjort for at lÃ¸se fejlen?;DA
+ipw;form10274;2386659;Intern IT Support;2386687;2386665;customformelement;field;attachfile;;;;Screenshots / Bilag;DA
+ipw;form10274;2386659;Intern IT Support;2386688;2386665;customformelement;field;radiobutton;;;;Har du brug for at booke en session til gennemgang?;DA
+ipw;form10274;2386659;Intern IT Support;2386691;2386665;customformelement;field;radiobutton;;;;MÃ¸deform;DA
+ipw;form10274;2386659;Intern IT Support;2386695;2444299;customformelement;field;url;;;;Link til fysisk mÃ¸debooking i kalender;DA
+ipw;form10274;2386659;Intern IT Support;2386696;2444299;customformelement;field;url;;;;Link til Teams/online mÃ¸debooking i kalender;DA
+ipw;form10274;2386659;Intern IT Support;2386697;2386665;customformelement;field;userrelation;;;;Valg af behandler;DA
+ipw;form10274;2386659;Intern IT Support;2386698;;customform;block;;layout_fieldset;;;Behandling;DA
+ipw;form10274;2386659;Intern IT Support;2386699;2386698;customformelement;field;date;;;;Booket d.;DA
+ipw;form10274;2386659;Intern IT Support;2386700;2386698;customformelement;field;confirmcheckbox;;;;GennemgÃ¥et med opretter;DA
+ipw;form10274;2386659;Intern IT Support;2386702;2444299;customformelement;special;;;layout_buttonupload;;Bilag_udgÃ¥et;DA
+ipw;form10274;2386659;Intern IT Support;2386703;2444299;customformelement;field;text;;;;LÃ¸sning;DA
+ipw;form1858414;1858414;Esbens hygge formular;2403272;;customform;field;date;;;;test;DA
+ipw;form1600633;1600633;Test bandit;2407819;;customform;field;date;;;;Dato beregnet;DA
+ipw;form1600633;1600633;Test bandit;2407826;;customform;field;integer;;;;Interval til datoberegning;DA
+ipw;form1600633;1600633;Test bandit;2407841;;customform;field;date;;;;UdfÃ¸rt dato;DA
+ipw;form1654140;1654140;Audit;2408514;2253532;customformelement;field;autonum;;;;Nr.;DA
+ipw;form2368959;2368959;Potentialevurdering - OmsÃ¦tning;2409185;;customform;field;string;;;;Potentiale;DA
+ipw;form2368959;2368959;Potentialevurdering - OmsÃ¦tning;2409506;;customform;field;string;;;;Sortering;DA
+ipw;form2412846;2412846;Statement of Applicability documentation SOA;2412847;;customform;field;text;;;;Kommentar;DA
+ipw;form2412846;2412846;Statement of Applicability documentation SOA;2412848;;customform;field;listselect;;;document;Dokument;DA
+ipw;form2412846;2412846;Statement of Applicability documentation SOA;2412850;;customform;field;url;;;;Ressource;DA
+ipw;form1359330;1359330;Statement of Applicability SOA;2412851;2591553;customformelement;field;inline;;;form2412846;Dokumentation;DA
+ipw;form2253424;2253424;Findings;2412856;2412860;customformelement;field;relation;;;form1359330;SOA;DA
+ipw;form2253424;2253424;Findings;2412860;;customform;block;;layout_fieldset;;;Kilde;DA
+ipw;form2350590;2350590;Potentialevurdering;2417036;2352893;customformelement;special;;;changed;;Ã†ndret d.;DA
+ipw;form2350590;2350590;Potentialevurdering;2417042;2352893;customformelement;special;;;changedby;;Ã†ndret af;DA
+ipw;form2350590;2350590;Potentialevurdering;2417057;2350863;customformelement;field;decimal;;;;Vareoms 365d;DA
+ipw;form2350590;2350590;Potentialevurdering;2417081;2352893;customformelement;field;userrelation;;;;Ansvarlig;DA
+ipw;form2350590;2350590;Potentialevurdering;2417146;2350863;customformelement;field;date;;;;Vurderet d.;DA
+ipw;form2350590;2350590;Potentialevurdering;2417159;2350863;customformelement;field;date;;;;Genvurderes d.;DA
+ipw;form2368959;2368959;Potentialevurdering - OmsÃ¦tning;2417166;;customform;field;integer;;;;Antal mÃ¥neder fÃ¸r genvurdering;DA
+ipw;form2421554;2421554;LeverandÃ¸revaluering niveau;2421555;;customform;field;string;;;;Niveau;DA
+ipw;form2421554;2421554;LeverandÃ¸revaluering niveau;2421557;;customform;field;colorpicker;;;;Farve;DA
+ipw;form2421554;2421554;LeverandÃ¸revaluering niveau;2421558;;customform;field;decimal;;;;SortCol;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2421566;2421798;customformelement;field;relation;;;form2421554;Aftaleevaluering;DA
+ipw;form2421590;2421590;LeverandÃ¸revalueringer;2421591;;customform;field;text;;;;Kommentar;DA
+ipw;form2421590;2421590;LeverandÃ¸revalueringer;2421592;;customform;field;date;;;;Dato for evaluering;DA
+ipw;form2421590;2421590;LeverandÃ¸revalueringer;2421593;;customform;field;relation;;;form2421554;Evaluering;DA
+ipw;form2421590;2421590;LeverandÃ¸revalueringer;2421595;;customform;field;relation;;;form4132;LeverandÃ¸r / databehandlere;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421696;;customform;field;string;;;;Titel;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421754;2421770;customformelement;field;imagethumbattach;;;;Billeder af fejlen 2;DA
+ipw;form2421697;2421697;Opgraderings erfaringer - Versioner;2421698;;customform;field;string;;;;Navn;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421702;;customform;field;relation;;;form2421697;Fra version;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421703;;customform;field;relation;;;form2421697;Til version;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421704;2421770;customformelement;field;html;;;;Beskrivelse af fejlen;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421705;2421773;customformelement;field;html;;;;Beskrivelse af lÃ¸sning;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421706;2421770;customformelement;field;imagethumbattach;;;;Billeder af fejlen;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421707;;customform;field;relation_multiple;;;document;Relaterede interne dokumenter;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421723;2421773;customformelement;field;imagethumbattach;;;;Billeder af lÃ¸sningen;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421725;;customform;field;attachfile;;;;Relevante filer;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421727;2421767;customformelement;field;html;;;;Testpunkter;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421755;2421770;customformelement;field;imagethumbattach;;;;Billeder af fejlen 3;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421756;2421773;customformelement;field;imagethumbattach;;;;Billeder af lÃ¸sningen 2;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421757;2421773;customformelement;field;imagethumbattach;;;;Billeder af lÃ¸sningen 3;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421764;2421767;customformelement;field;imagethumbattach;;;;Billeder af testpunkter;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421765;2421767;customformelement;field;imagethumbattach;;;;Billeder af testpunkter 2;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421766;2421767;customformelement;field;imagethumbattach;;;;Billeder af testpunkter 3;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421767;;customform;block;;layout_fieldset;;;Testpunkter;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421770;;customform;block;;layout_fieldset;;;Beskrivelse af fejlen;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2421773;;customform;block;;layout_fieldset;;;Beskrivelse af lÃ¸sning;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2421795;2421798;customformelement;field;date;;;;Evalueringsdato;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2421796;2421798;customformelement;field;date;;;;NÃ¦ste evalueringsdato;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2421797;2421798;customformelement;field;integer;;;;Evalueringsinterval (Ã¥r);DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2421798;;customform;block;;layout_fieldset;;;Evaluering af aftaleopfyldelse;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2422565;2592044;customformelement;field;date;;;;Forventet udlÃ¸bsdato;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424132;;customform;field;autonum;;;;ID;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424134;;customform;field;combo;;;;Sal;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424136;;customform;field;string;;;;Hvor;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424137;;customform;field;text;;;;Hvad;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424138;;customform;field;imagethumbattach;;;;Foto 1;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424180;;customform;field;imagethumbattach;;;;Foto 2;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424185;;customform;block;;layout_fieldset;;;UdfÃ¸relse;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424186;2424185;customformelement;field;radiobutton;;;;UdfÃ¸relse;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424194;2424185;customformelement;field;userrelation;;;;Hvem fixer?;DA
+ipw;form2424205;2424205;Mangelliste Lokaler - Eksterne ressourcer;2424206;;customform;field;string;;;;Tekst;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424218;2424185;customformelement;field;relation;;;form2424205;Hvem bestilles til opgaven?;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424226;2424185;customformelement;field;string;;;;Angiv Hr . X;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424229;2424185;customformelement;field;date;;;;Forventet dato;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2424230;2424185;customformelement;field;confirmcheckbox;;;;Arbejdet er bestilt;DA
+ipw;form10274;2386659;Intern IT Support;2426148;2386660;customformelement;special;;;state;;Status;DA
+ipw;form10274;2386659;Intern IT Support;2426187;2386698;customformelement;field;texthistory;;;;Kommentar;DA
+ipw;form2426687;2426687;Server OS;2426688;;customform;field;string;;;;Tekst;DA
+ipw;form2426687;2426687;Server OS;2426689;;customform;field;date;;;;End of Life;DA
+ipw;form2426687;2426687;Server OS;2426694;;customform;field;url;;;;Evt link;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2426987;;customform;special;;;createdby;;Oprettet af;DA
+ipw;form2424131;2424131;Mangelliste Lokaler;2427596;2424185;customformelement;field;text;;;;Kommentar til udfÃ¸relse;DA
+ipw;form2253424;2253424;Findings;2429468;2253583;customformelement;field;checkbox;;;;Undlad reminder notifikation;DA
+ipw;form2253424;2253424;Findings;2433157;2253583;customformelement;special;;;responsible;;Ansvarlig;DA
+ipw;form1600633;1600633;Test bandit;2438803;;customform;field;html;;;;Editor;DA
+ipw;form1201835;1201835;Kontraktstyring;2439937;1651875;customformelement;field;checkbox;;;;SÃ¦raftale;DA
+ipw;form1201835;1201835;Kontraktstyring;2439943;;customform;field;date;;;;Skal revideres;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2440471;2421798;customformelement;field;text;;;;Kommentar;DA
+ipw;form2253424;2253424;Findings;2440703;;customform;block;;layout_fieldset;;;Handlinger og forebyggelse;DA
+ipw;form2440707;2440707;Finding type;2440708;;customform;field;string;;;;Type;DA
+ipw;form2440723;2440723;Informationsaktiver login type;2440724;;customform;field;string;;;;Type;DA
+ipw;form4129;1248442;Informationsaktiver;2440728;;customform;field;relation;;;form2440723;Login metode;DA
+ipw;form2253424;2253424;Findings;2440729;2440703;customformelement;field;text;;;;Kommentar;DA
+ipw;form2442192;2442192;Potentialevurdering - Dage til genvurdering;2442193;;customform;field;string;;;;Antal dage;DA
+ipw;form2440734;2440734;Korrigerende handlinger til findings;2440735;;customform;field;text;;;;Hvad skal gÃ¸res?;DA
+ipw;form2440734;2440734;Korrigerende handlinger til findings;2440737;;customform;field;userrelation;;;;Ansvarlig;DA
+ipw;form2440734;2440734;Korrigerende handlinger til findings;2440739;;customform;field;checkbox;;;;UdfÃ¸rt;DA
+ipw;form2253424;2253424;Findings;2440740;2440703;customformelement;field;inline;;;form2440734;Korrigerende handlinger;DA
+ipw;form2253424;2253424;Findings;2440746;2253583;customformelement;field;relation;;;form2440707;Type;DA
+ipw;form2350590;2350590;Potentialevurdering;2442205;2350863;customformelement;field;radiobutton;;;;Mulighed for stÃ¸rre projektsalg?;DA
+ipw;form2350590;2350590;Potentialevurdering;2442210;2350863;customformelement;field;radiobutton;;;;Mulighed for software salg?;DA
+ipw;form2350590;2350590;Potentialevurdering;2442266;2350863;customformelement;field;text;;;;Kommentar;DA
+ipw;form2350590;2350590;Potentialevurdering;2442274;2350863;customformelement;field;text;;;;Kommentar;DA
+ipw;form10274;2386659;Intern IT Support;2444283;2386698;customformelement;field;attachfile;;;;Bilag;DA
+ipw;form10274;2386659;Intern IT Support;2444299;;customform;block;;layout_fieldset;;;UdgÃ¥et felter;DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;2444471;;customform;field;decimal;;;;Angiv Ã¥rlig mistet vÃ¦rdi;DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;2445390;;customform;field;text;;;;Angiv Ã¥rsag til opsigelse;DA
+ipw;form1600633;1600633;Test bandit;2445822;;customform;special;;;layout_text;;Rykke ind og gÃ¸r som jeg siger;DA
+ipw;form1510717;1510717;Tredjepartskode-licenser;2447362;;customform;field;combo;;;;Type;DA
+ipw;form1510717;1510717;Tredjepartskode-licenser;2447394;;customform;field;string;;;;UdgÃ¥r fra version;DA
+ipw;form1510717;1510717;Tredjepartskode-licenser;2447409;;customform;field;text;;;;Kendte sikkerhedsissues;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450564;;customform;field;listselect;;;employee;Medarbejder;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450566;;customform;field;confirmcheckbox;;;;OpsÃ¦tning af udviklingsmiljÃ¸;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450567;;customform;field;confirmcheckbox;;;;Opret jira issue;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450568;;customform;field;confirmcheckbox;;;;LÃ¸s jira issue;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450569;;customform;field;confirmcheckbox;;;;Sidemand pÃ¥ en kundeopgave;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450570;;customform;field;confirmcheckbox;;;;Sidemand i support;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450571;;customform;field;confirmcheckbox;;;;LÃ¸s en kundeopgave;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450581;;customform;field;confirmcheckbox;;;;Lav en unittest;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450582;;customform;field;confirmcheckbox;;;;LÃ¸s en supportsag;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450583;;customform;field;confirmcheckbox;;;;Deltaget i erfamÃ¸de;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450584;;customform;field;confirmcheckbox;;;;Deltaget i kursus;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450585;;customform;field;date;;;;AnsÃ¦ttelsesstart;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450588;;customform;field;texthistory;;;;Kommentarer;DA
+ipw;form2450562;2450562;Tjekliste onboarding ny udvikler;2450592;;customform;field;confirmcheckbox;;;;FÃ¥et taget billede;DA
+ipw;form1885642;1885642;ISMS Ã…rshjulslogning;2453725;;customform;field;url;;;;Link til dokumentation;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2456081;2592044;customformelement;field;listselect;;;ipwtask;Opgave pÃ¥ udlÃ¸b;DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;2456317;;customform;field;confirmcheckbox;;;;Note er oprettet pÃ¥ kunden at de har opsagt lÃ¸sningen;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2458253;;customform;block;;layout_fieldset;;;Udleveret Gimmick;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2458255;2458253;customformelement;field;text;;;;Beskrivelse;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2458260;2458253;customformelement;field;decimal;;;;Budget pr. stk.;DA
+ipw;form1438650;1438650;Salgsaktiviteter;2458261;2458253;customformelement;field;imagethumbattach;;;;Upload billede af total Gimmick;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2463078;;customform;field;text;;;;Hvad er gjort her og nu?;DA
+ipw;form1196047x;1196094;Potentiel lÃ¦k af persondata;2465152;;customform;field;text;;;;Hvad er gjort her og nu?;DA
+ipw;form1885642;1885642;ISMS Ã…rshjulslogning;2479757;;customform;field;attachfile;;;;Filer / dokumentation;DA
+ipw;form4129;1248442;Informationsaktiver;2480172;;customform;field;combo;;;;Vurdering af persondatabehandling;DA
+ipw;form4129;1248442;Informationsaktiver;2480173;;customform;field;text;;;;Begrundelse;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2481470;2481473;customformelement;field;checkbox;;;;OverfÃ¸rsel af personoplysning udenfor EU/EÃ˜S;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2481473;;customform;block;;layout_fieldset;;;LeverandÃ¸rinformation;DA
+ipw;form1191204;1191204;Sygemeldinger;2483719;;customform;field;checkbox;;;;Halv dag;DA
+ipw;form1191204;1191204;Sygemeldinger;2483765;;customform;field;userrelation;;;;Medarbejder;DA
+ipw;form1191204;1191204;Sygemeldinger;2483816;;customform;block;;layout_fieldset;;;UdgÃ¥et felter;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2485977;;customform;field;string;;;;Test;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2489172;;customform;special;;;layout_fixedimage;;Billede;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491611;;customform;block;;layout_fieldset;;;Risikovurdering;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491612;2491611;customformelement;field;integer;;;;Vurderingsinterval (Ã¥r);DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491613;2491611;customformelement;field;date;;;;Risikovurderingsdato;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491614;2491611;customformelement;field;date;;;;NÃ¦ste risikovurdering;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491615;2491611;customformelement;field;relation;;;form2421554;Risikovurdering;DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;2493401;;customform;field;confirmcheckbox;;;;Aftaler er genoprettet og installation er sikret til fortsat at vÃ¦re aktiv;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2491616;2491611;customformelement;field;text;;;;Kommentar;DA
+ipw;form2253424;2253424;Findings;2493832;2440703;customformelement;field;text;;;;Hvad kan gÃ¸res fremadrettet for at forhindre eller forebygge;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2494599;;customform;field;relation;;;department;Tjek;DA
+ipw;form2421694;2421694;Opgraderings erfaringer;2502651;;customform;field;relation_multiple;;;employee;Folk med indsigt;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2510932;;customform;field;combo_multiple;;;;F_COMBO_MUL felt;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2510933;;customform;field;relation_multiple;;;department;F_REL_MUL felt;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2515052;;customform;field;inline;;;form1963633;Indlejret;DA
+ipw;form2515206;2515206;Dispensation;2515207;;customform;block;;layout_fieldset;;;Information;DA
+ipw;form2515206;2515206;Dispensation;2515208;2515207;customformelement;field;text;;;;Beskrivelse af dispensation;DA
+ipw;form2515206;2515206;Dispensation;2515209;2515207;customformelement;field;date;;;;Fra;DA
+ipw;form2515206;2515206;Dispensation;2515210;2515207;customformelement;field;date;;;;Til;DA
+ipw;form2515206;2515206;Dispensation;2515211;2515207;customformelement;field;userrelation_multiple;;;;Dispensation gives til;DA
+ipw;form2515206;2515206;Dispensation;2515213;2515207;customformelement;field;confirmcheckbox;;;;Er dispensationen afsluttet?;DA
+ipw;form2515206;2515206;Dispensation;2515214;2515207;customformelement;field;userrelation_multiple;;;;Dispensation godkendt af;DA
+ipw;form2515340;2515340;Audit skabelon;2515341;;customform;block;;layout_fieldset;;;Audit information;DA
+ipw;form2515340;2515340;Audit skabelon;2515342;2515341;customformelement;field;relation;;;form2253541;Type;DA
+ipw;form2515340;2515340;Audit skabelon;2515343;2515341;customformelement;field;string;;;;Emne/omrÃ¥de;DA
+ipw;form2515340;2515340;Audit skabelon;2515344;2515341;customformelement;field;text;;;;Beskrivelse;DA
+ipw;form2515340;2515340;Audit skabelon;2515360;2515341;customformelement;field;text;;;;Kommentar;DA
+ipw;form1654140;1654140;Audit;2515368;2253532;customformelement;field;relation;;;form2515340;Skabelon;DA
+ipw;form2515340;2515340;Audit skabelon;2515418;2515341;customformelement;field;multiselect;;;form1885641;Ã…rshjulskontrolpunkter;DA
+ipw;form1654140;1654140;Audit;2515427;2253532;customformelement;field;multiselect;;;form1885641;Ã…rshjulspunkter;DA
+ipw;form1654140;1654140;Audit;2515437;2253532;customformelement;field;attachfile;;;;Filer;DA
+ipw;form2515206;2515206;Dispensation;2516732;2515207;customformelement;special;;;layout_text;;HUSK at kontrollere adgange er konfigureret til deres oprindelige tilstand;DA
+ipw;form2515206;2515206;Dispensation;2516737;2515207;customformelement;field;relation_multiple;;;form4129;Systemer;DA
+ipw;form1600633;1600633;Test bandit;2518396;;customform;field;attachfile;;;;Fil fra PC;DA
+ipw;form1201835;1201835;Kontraktstyring;2519332;;customform;field;text;;;;SÃ¦rlige aftaleforhold;DA
+ipw;form2029737;2029737;Opdateringsindstillinger;2520345;;customform;field;checkbox;;;;Autoopdatering automatisk stoppet pga. issue status;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2524629;2481473;customformelement;field;date;;;;Seneste evalueringsdato;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2524632;2481473;customformelement;field;integer;;;;Evalueringsinterval (Ã¥r);DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2524756;2481473;customformelement;field;relation;;;form2421554;Samlet evaluering;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2524633;2481473;customformelement;field;date;;;;NÃ¦ste evalueringsdato;DA
+ipw;form829798;829798;Lead til salg;2526486;;customform;field;combo;;;;Lead via;DA
+ipw;form829798;829798;Lead til salg;2526504;;customform;field;combo;;;;Status fra salg;DA
+ipw;form829798;829798;Lead til salg;2526557;;customform;special;;;created;;Lead oprettet;DA
+ipw;form829798;829798;Lead til salg;2526594;;customform;field;date;;;;Tilbudsdato;DA
+ipw;form1196047;1196047;SikkerhedshÃ¦ndelse;2526569;;customform;field;attachfile;;;;Filer;DA
+ipw;form829798;829798;Lead til salg;2526797;;customform;field;listselect;;;ipwtask;Tilknyt tilbudssag;DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527500;;customform;block;;layout_fieldset;;;Info;DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527503;2527500;customformelement;field;date;;;;Dato for besÃ¸g;DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527504;2527500;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527505;2527500;customformelement;special;;;created;;Dato oprettelse;DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527507;2527500;customformelement;field;relation;;;department;Lokation (samleplads);DA
+ipw;form2349722;2349722;Esbens Anywhere Testformular;2527508;2527500;customformelement;field;radiobutton;;;;Kontrol af bil;DA
+ipw;form2253424;2253424;Findings;2528917;2253583;customformelement;field;attachfile;;;;Filer;DA
+ipw;form4132;1248452;LeverandÃ¸rer / databehandlere;2530227;2481473;customformelement;field;text;;;;Kommentar;DA
+ipw;form4129;1248442;Informationsaktiver;2534363;;customform;block;;layout_fieldset;;;BÃ¦redygtighed;DA
+ipw;form4129;1248442;Informationsaktiver;2534364;2534363;customformelement;field;combo;;;;Vedvarende energi;DA
+ipw;form4129;1248442;Informationsaktiver;2534365;2534363;customformelement;field;url;;;;Sustainability report;DA
+ipw;form2386175;2386175;Risikovurdering;2534394;2386345;customformelement;field;text;;;;Kommentar;DA
+ipw;form2515340;2515340;Audit skabelon;2542494;2515341;customformelement;field;string;;;;Hyppighed;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2554980;;customform;field;url;;;;URL;DA
+ipw;form46543;2555034;Tilmelding Personaleforening;2555035;;customform;special;;;layout_fixedimage;;Personaleforening;EN
+ipw;form46543;2555034;Tilmelding Personaleforening;2555036;;customform;special;;;layout_linebreak;;Blank linje;EN
+ipw;form46543;2555034;Tilmelding Personaleforening;2555037;;customform;field;radiobutton;;;;Jeg Ã¸nsker at tilmelde mig personaleforeningen og Gavekassen:;EN
+ipw;form46543;2555034;Tilmelding Personaleforening;2555041;;customform;field;string;;;;Navneforslag til personaleforeningen:;EN
+ipw;form46543;2555034;Tilmelding Personaleforening;2555046;;customform;field;confirmcheckbox;;;;BekrÃ¦ft;EN
+ipw;form1987979;1987979;Intern tilmeldingsformular til fest;2555705;;customform;special;;;layout_text;;"&#9728;&#65039;&#129395;IPW SOMMERFEST 2024 - 14. juni&#129395;&#9728;&#65039;";DA
+ipw;form936826;936826;Opsigelse af lÃ¸sning;2555997;;customform;block;;layout_fieldset;;;UdgÃ¥et felter;DA
+ipw;form2556177;2556177;Personaleforening - Forslag;2556178;;customform;field;string;;;;Titel;DA
+ipw;form2556177;2556177;Personaleforening - Forslag;2556179;;customform;field;text;;;;Beskrivelse;DA
+ipw;form1329139;1329139;Leverancer;2558880;2574319;customformelement;field;multiselect;;;form2350590;Potentialevurdering;DA
+ipw;form1600633;1600633;Test bandit;2561738;;customform;field;inline;;;form1704636;Indlejret med 8 rÃ¦kker;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2563144;;customform;field;string;;;;Signatur;DA
+ipw;form1329139;1329139;Leverancer;2563373;1361499;customformelement;field;radiobutton;;;;Skal kunden have EAN fakturering;DA
+ipw;form1329139;1329139;Leverancer;2563380;1361499;customformelement;field;confirmcheckbox;;;;Jill er sat pÃ¥ i faktura email (jlr@ipwsystems.dk);DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2564214;;customform;field;relation;;;user;bRUGERE;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2564215;;customform;field;relation_multiple;;;user;TASDG;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2565851;;customform;field;html;;;;HTML;DA
+ipw;form2386175;2386175;Risikovurdering;2568664;2386176;customformelement;field;autonum;;;;Risiko id;DA
+ipw;form2568669;2568669;ISO27002 kontroller;2568670;;customform;field;string;;;;Tekst;DA
+ipw;form2386175;2386175;Risikovurdering;2569971;2386176;customformelement;field;relation_multiple;;;form1359330;ISO 27002 kontroller;DA
+ipw;form2386175;2386175;Risikovurdering;2569983;2386176;customformelement;field;text;;;;Kommentar;DA
+ipw;form2569995;2569995;RisikohÃ¥ndering;2569997;;customform;field;string;;;;Text;DA
+ipw;form2386175;2386175;Risikovurdering;2570004;2386176;customformelement;field;relation;;;form2569995;HÃ¥ndtering;DA
+ipw;form2386175;2386175;Risikovurdering;2570008;2386176;customformelement;field;userrelation;;;;Risikoejer;DA
+ipw;form2570015;2570015;Risikosandsynlighed;2570016;;customform;field;string;;;;Sandsynlighed;DA
+ipw;form2386175;2386175;Risikovurdering;2570027;2386345;customformelement;field;combo;;;;Sandsynlighed;DA
+ipw;form2570015;2570015;Risikosandsynlighed;2570018;;customform;field;decimal;;;;Sortering;DA
+ipw;form2386175;2386175;Risikovurdering;2570033;2386345;customformelement;field;combo;;;;Impact fortrolighed;DA
+ipw;form2386175;2386175;Risikovurdering;2570042;2386345;customformelement;field;combo;;;;Impact integritet;DA
+ipw;form2386175;2386175;Risikovurdering;2570063;2386345;customformelement;field;combo;;;;Impact tilgÃ¦ngelighed;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570314;;customform;block;;layout_fieldset;;;Risikovurdering;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570316;2570314;customformelement;field;relation;;;form2386175;Risikovurdering;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570323;2570314;customformelement;field;relation;;;form2386325;Type;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570326;2570314;customformelement;field;text;;;;Foranstaltning;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570327;2570314;customformelement;field;radiobutton;;;;Implementeret;DA
+ipw;form2386175;2386175;Risikovurdering;2570328;2386341;customformelement;field;multiselect;;;form2386255;Foranstaltninger;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570387;2570314;customformelement;field;combo;;;;Impact tilgÃ¦ngelighed;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570391;2570314;customformelement;field;combo;;;;Impact integritet;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570393;2570314;customformelement;field;combo;;;;Impact fortrolighed;DA
+ipw;form2386175;2386175;Risikovurdering;2570404;2386345;customformelement;field;decimal;;;;Uforanstaltet risiko score;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570424;2570314;customformelement;field;combo;;;;Sandsynlighed;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570477;2570314;customformelement;field;decimal;;;;Foranstaltet risikoscore;DA
+ipw;form2386255;2386255;Risikoforanstaltninger;2570564;2570314;customformelement;field;relation;;;form4129;Informationsaktiv;DA
+ipw;form2386175;2386175;Risikovurdering;2570625;2386341;customformelement;field;text;;;;Kommentar;DA
+ipw;form2386175;2386175;Risikovurdering;2570629;2386345;customformelement;special;;;layout_text;;Score = sandsynlighed * (fortrolighed + tilgÃ¦ngelighed + integritet * 2) / 4;DA
+ipw;form2571026;2571026;Trusselskatalog;2571027;;customform;field;relation;;;form2571029;Kategori;DA
+ipw;form2571029;2571029;Trusselskategori;2571030;;customform;field;string;;;;Kategori;DA
+ipw;form2571026;2571026;Trusselskatalog;2571035;;customform;field;string;;;;Trussel;DA
+ipw;form2571026;2571026;Trusselskatalog;2571036;;customform;field;text;;;;Kommentar;DA
+ipw;form2386175;2386175;Risikovurdering;2571152;2386176;customformelement;field;relation_multiple;;;form2571026;Trusler;DA
+ipw;form2386175;2386175;Risikovurdering;2571271;2386176;customformelement;field;relation_multiple;;;form2571029;Trusselskategori;DA
+ipw;form2386175;2386175;Risikovurdering;2571281;2386176;customformelement;field;url;;;;Link til trusselskatalog;DA
+ipw;form2386175;2386175;Risikovurdering;2571385;2386345;customformelement;field;combo;;;;Impact omdÃ¸mme;DA
+ipw;form2386175;2386175;Risikovurdering;2571389;2386345;customformelement;field;combo;;;;Impact juridisk;DA
+ipw;form2386175;2386175;Risikovurdering;2571683;2386176;customformelement;field;url;;;;Link til SOA / kontroller;DA
+ipw;form2386175;2386175;Risikovurdering;2571849;2386176;customformelement;field;listselect;;;form4132;LeverandÃ¸r;DA
+ipw;form1867496;1867496;Testpunkter pÃ¥ installationer;2572047;;customform;field;imagethumbattach;;;;Evt screenshot;DA
+ipw;form2572240;2572240;Madbestilling;2572241;2572256;customformelement;field;relation;;;employee;Medarbejder;DA
+ipw;form2572240;2572240;Madbestilling;2572242;2572255;customformelement;block;;layout_fieldset;;;Uge 29;DA
+ipw;form2572240;2572240;Madbestilling;2572243;2572242;customformelement;field;checkbox;;;;U29 - Mandag;DA
+ipw;form2572240;2572240;Madbestilling;2572244;2572242;customformelement;field;checkbox;;;;U29 - Tirsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572245;2572242;customformelement;field;checkbox;;;;U29 - Onsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572246;2572242;customformelement;field;checkbox;;;;U29 - Torsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572247;2572242;customformelement;field;checkbox;;;;U29 - Fredag;DA
+ipw;form2572240;2572240;Madbestilling;2572248;2572258;customformelement;block;;layout_fieldset;;;Uge 30;DA
+ipw;form2572240;2572240;Madbestilling;2572249;2572248;customformelement;field;checkbox;;;;U30- Mandag;DA
+ipw;form2572240;2572240;Madbestilling;2572250;2572248;customformelement;field;checkbox;;;;U30- Tirsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572251;2572248;customformelement;field;checkbox;;;;U30- Onsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572252;2572248;customformelement;field;checkbox;;;;U30- Torsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572253;2572248;customformelement;field;checkbox;;;;U30 - Fredag;DA
+ipw;form2572240;2572240;Madbestilling;2572255;;customform;block;;layout_column;;;Uge 29;DA
+ipw;form2572240;2572240;Madbestilling;2572256;;customform;block;;layout_fieldset;;;Spiser frokost pÃ¥ kontoret;DA
+ipw;form2572240;2572240;Madbestilling;2572258;;customform;block;;layout_column;;;Uge 30;DA
+ipw;form2572240;2572240;Madbestilling;2572260;;customform;block;;layout_column;;;Uge 31;DA
+ipw;form2572240;2572240;Madbestilling;2572261;2572260;customformelement;block;;layout_fieldset;;;Uge 31;DA
+ipw;form2572240;2572240;Madbestilling;2572262;2572261;customformelement;field;checkbox;;;;U31 - Mandag;DA
+ipw;form2572240;2572240;Madbestilling;2572263;2572261;customformelement;field;checkbox;;;;U31 - Tirsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572264;2572261;customformelement;field;checkbox;;;;U31 - Onsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572265;2572261;customformelement;field;checkbox;;;;U31 - Torsdag;DA
+ipw;form2572240;2572240;Madbestilling;2572266;2572261;customformelement;field;checkbox;;;;U31 - Fredag;DA
+ipw;form1621149;1621149;IPW Server;2573415;;customform;field;email;;;;NoReply adresse;DA
+ipw;form1329139;1329139;Leverancer;2574319;;customform;block;;layout_fieldset;;;SALG: Potentialevurdering;DA
+ipw;form10274;2386659;Intern IT Support;2576121;2386698;customformelement;field;checkbox;;;;TilsidesÃ¦t pÃ¥mindelse;DA
+ipw;form4129;1248442;Informationsaktiver;2576941;;customform;field;text;;;;Backup;DA
+ipw;form2583520;2583520;Simpel hjÃ¦lpetabel;2583521;;customform;field;string;;;;Tekst;DA
+ipw;form2485976;2485976;2024-01-08 - JS Test;2583522;;customform;field;inline;;;form2583520;Inline;DA
+ipw;form2584010;2584010;Formularkatalog;2584011;;customform;block;;layout_fieldset;;;Info;DA
+ipw;form2584010;2584010;Formularkatalog;2584012;2584011;customformelement;special;;;createdby;;Oprettet af;DA
+ipw;form2584010;2584010;Formularkatalog;2584013;2584011;customformelement;special;;;created;;Oprettet;DA
+ipw;form2584010;2584010;Formularkatalog;2584302;2584011;customformelement;special;;;layout_linebreak;;Blank linje;DA
+ipw;form2584010;2584010;Formularkatalog;2584014;2584011;customformelement;special;;;changedby;;Seneste Ã¦ndring foretaget af;DA
+ipw;form2584010;2584010;Formularkatalog;2584015;2584011;customformelement;special;;;changed;;Seneste Ã¦ndring foretaget d.;DA
+ipw;form2584010;2584010;Formularkatalog;2584016;;customform;block;;layout_fieldset;;;Formular stamdata;DA
+ipw;form2584010;2584010;Formularkatalog;2584017;2584016;customformelement;field;listselect;;;form2584018;Kategori;DA
+ipw;form2584018;2584018;Formularkatalog - Kategori;2584019;;customform;field;string;;;;Kategori;DA
+ipw;form2584010;2584010;Formularkatalog;2584060;2584016;customformelement;field;radiobutton;;;;Hvor er formularen installeret?;DA
+ipw;form2584010;2584010;Formularkatalog;2584213;2584016;customformelement;field;relation;;;company;Kunde;DA
+ipw;form2584010;2584010;Formularkatalog;2584225;2584016;customformelement;field;text;;;;Beskriv hvor formularen kan findes;DA
+ipw;form2584010;2584010;Formularkatalog;2584228;2584232;customformelement;field;text;;;;Beskrivelse af formularen;DA
+ipw;form2584010;2584010;Formularkatalog;2584230;2584232;customformelement;field;text;;;;Hvad gÃ¸r formularen god?;DA
+ipw;form2584010;2584010;Formularkatalog;2584232;;customform;block;;layout_fieldset;;;Formularinformationer;DA
+ipw;form2584010;2584010;Formularkatalog;2584233;2584232;customformelement;field;text;;;;Hvad kunne gÃ¸re formularen bedre?;DA
+ipw;form2584010;2584010;Formularkatalog;2584234;2584232;customformelement;field;confirmcheckbox;;;;Kunden har givet tilladelse til at formularen mÃ¥ anvendes hos andre kunder;DA
+ipw;form2584010;2584010;Formularkatalog;2584236;2584232;customformelement;field;relation;;;form2584255;Hvad er din vurdering af formularen fra 1 - 10?;DA
+ipw;form2584010;2584010;Formularkatalog;2584238;2584232;customformelement;field;confirmcheckbox;;;;Kunden har givet tilladelse til at formularen mÃ¥ oprettes som formularinspiration pÃ¥ demositet;DA
+ipw;form2584251;2584251;Formularkatalog - Ã˜vrige vurderinger;2584283;;customform;field;text;;;;Hvad gÃ¸r formularen god?;DA
+ipw;form2584010;2584010;Formularkatalog;2584250;;customform;block;;layout_fieldset;;;Ã˜vrige vurderinger;DA
+ipw;form2584251;2584251;Formularkatalog - Ã˜vrige vurderinger;2584252;;customform;field;userrelation;;;;Vurderet af;DA
+ipw;form2584251;2584251;Formularkatalog - Ã˜vrige vurderinger;2584254;;customform;field;relation;;;form2584255;Vurdering;DA
+ipw;form2584255;2584255;Formularkatalog - Vurderingsskala;2584256;;customform;field;integer;;;;Vurdering;DA
+ipw;form2584251;2584251;Formularkatalog - Ã˜vrige vurderinger;2584285;;customform;field;text;;;;Hvad kunne gÃ¸re formularen bedre?;DA
+ipw;form2584010;2584010;Formularkatalog;2584287;2584250;customformelement;field;inline;;;form2584251;Ã˜vrige vurderinger - Indlejret tabel;DA
+ipw;form2584010;2584010;Formularkatalog;2584336;2584016;customformelement;field;url;;;;URL til installationen;DA
+ipw;form2326189;2326189;Studieprojektopgaver;2584385;;customform;field;text;;;;Teaser;DA
+ipw;form4129;1248442;Informationsaktiver;2584728;;customform;field;combo;;;;PrimÃ¦rt cost center;DA
+ipw;form2584010;2584010;Formularkatalog;2584739;2584016;customformelement;field;radiobutton;;;;Status pÃ¥ formular;DA
+ipw;form2584010;2584010;Formularkatalog;2585133;2584232;customformelement;field;string;;;;Navn pÃ¥ formularen;DA
+ipw;form2584010;2584010;Formularkatalog;2584740;2584016;customformelement;field;text;;;;Status beskrivelse;DA
+ipw;form1654140;1654140;Audit;2586845;2253532;customformelement;special;;;state;;Stadie;DA
+ipw;form2584010;2584010;Formularkatalog;2586980;2584232;customformelement;field;checkbox;;;;Formularen krÃ¦ver specialtilpasning;DA
+ipw;form2584010;2584010;Formularkatalog;2586981;2584232;customformelement;field;decimal;;;;Hvor mange udviklingstimer blev anvendt ved sidste implementering af formularen?;DA
+ipw;form2584010;2584010;Formularkatalog;2587061;2584016;customformelement;field;string;;;;Evt. specificering af formular/kategori;DA
+ipw;form2584010;2584010;Formularkatalog;2587063;2584016;customformelement;field;radiobutton;;;;Stadier;DA
+ipw;form493061;493061;Oprettelse af ipw.dk-site;2589076;;customform;field;checkbox;;;;Opret i ElasticSearch (!);DA
+ipw;form1359330;1359330;Statement of Applicability SOA;2591545;2591552;customformelement;field;string;;;;Version;DA
+ipw;form1359330;1359330;Statement of Applicability SOA;2591546;2591552;customformelement;field;date;;;;Dato (Date of Issue);DA
+ipw;form1359330;1359330;Statement of Applicability SOA;2591552;;customform;block;;layout_fieldset;;;Ekstern information;DA
+ipw;form1359330;1359330;Statement of Applicability SOA;2591553;;customform;block;;layout_fieldset;;;Intern information;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592044;;customform;block;;layout_fieldset;;;Stamdata;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592048;;customform;block;;layout_fieldset;;;EntraID opsÃ¦tning;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592051;2592048;customformelement;field;string;;;;Aftalt Entra ID Prefix;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592054;2592048;customformelement;field;confirmcheckbox;;;;Synkroniserings job opsat;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592057;2592048;customformelement;field;confirmcheckbox;;;;UpdateFederationMetadata opsat;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592060;2592048;customformelement;field;checkbox;;;;OpsÃ¦tning mangler;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592064;2592048;customformelement;field;text;;;;Uddybning pÃ¥ manglende opsÃ¦tning;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592077;2592048;customformelement;field;checkbox;;;;Er der nogle sÃ¦rlige aftaler?;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592081;2592048;customformelement;field;text;;;;SÃ¦rlige aftaler;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2592090;2592048;customformelement;field;string;;;;Aftalte brugergrupper;DA
+ipw;form1600633;1600633;Test bandit;2592857;;customform;field;inline;;;usergroup;Referencetabel;DA
+ipw;form2421590;2421590;LeverandÃ¸revalueringer;2595977;;customform;field;inline;;;form2386175;Risikovurderinger;DA
+ipw;form2597892;2597892;Vidensdeling;2597893;2597901;customformelement;field;string;;;;Emne;DA
+ipw;form2597892;2597892;Vidensdeling;2597895;2597901;customformelement;field;text;;;;Uddybende beskrivelse;DA
+ipw;form2597892;2597892;Vidensdeling;2597901;;customform;block;;layout_fieldset;;;Jeg har brug for mere viden om...;DA
+ipw;form10274;2386659;Intern IT Support;2601947;2386665;customformelement;special;;;layout_text;;Registrerer du tid, kan du bruge flg. opg.nr: 83245;DA
+ipw;form1927875;1927875;Azure - UdlÃ¸b af client secret;2610308;2592044;customformelement;special;;;createdby;;Ansvarlig for opsÃ¦tning;DA
+ipw;form1329139;1329139;Leverancer;2612534;;customform;block;;layout_fieldset;;;UDGÃ…ET felter;DA
+ipw;form1329139;1329139;Leverancer;2612540;1361554;customformelement;special;;;layout_text;;Installationen oprettes pÃ¥ domÃ¦net xxxx.ipw.dk;DA
+ipw;form1329139;1329139;Leverancer;2612546;1361554;customformelement;special;;;layout_text;;Installationen oprettes pÃ¥ domÃ¦net <b>xxxx.ipwsystems.net</b>;DA
+ipw;form1329139;1329139;Leverancer;2612585;1361554;customformelement;field;radiobutton;;;;Kunden Ã¸nsker at anvende eget domÃ¦ne;DA
