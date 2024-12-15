@@ -18,4 +18,4 @@ COPY app ./app
 EXPOSE 8888
 
 # Default command to run when starting the container
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--notebook-dir=/app/app", "Experiment-3.1.ipynb"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--notebook-dir=/app/app"]

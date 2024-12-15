@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         //const features = inputValue.split(',').map(Number);
 
         // Send input to Flask API
-        fetch('http://127.0.0.1:5000/predict', {
+        fetch('http://localhost:5000/predict', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
